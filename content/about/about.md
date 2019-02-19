@@ -24,7 +24,7 @@ Mastodon:[sagamino@mstdn.jp](//mstdn.jp/@sagamino)
 Annict:[@sagamino](//annict.jp/@sagamino)  
 2019年の年初に始めました。  
 sagaminoが観てるアニメ、観たアニメ、観てないアニメはここで見られます.  
-アニメ遍歴の公開と視聴行為に責任を持つ(言うほど真剣か？)ことを目的に全て晒しています.  
+アニメ遍歴の公開と視聴行為に責任を持つ(言うほど真剣か？)ことを目的に全てオープンにしています.  
 "〇〇(作品名)を観てない！？"という苦情も偶に来る
 
 [Amazonほしいものリスト](//amazon.co.jp//registry/wishlist/28VXS1055QQRF/ref=cm_sw_r_tw)  
