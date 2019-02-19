@@ -1,6 +1,6 @@
 +++
-title = "Aaaa"
-date = 2019-02-19T13:54:56+09:00
+title = "{{ replace .Name "-" " " | title }}"
+date = {{ .Date }}
 categories = []
 tags = []
 description = ""
