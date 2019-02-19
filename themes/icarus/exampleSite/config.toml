@@ -7,7 +7,7 @@ disqusShortname = "spf13"
 googleAnalytics = ""
 # Define the number of posts per page
 paginate = 10
-footnotereturnlinkcontents = "↩"
+footnotereturnlinkcontents = "?"
 theme = "hugo-icarus-theme"
 # Comment the themesDir option if you use this theme in production
 themesDir = "../.."
@@ -54,13 +54,13 @@ themesDir = "../.."
 
 [[params.menu]]
     before = false
-    label  = "Tags"
-    link   = "tags/"
+    label  = "Categories"
+    link   = "categories/"
 
 [[params.menu]]
     before = false
-    label  = "Categories"
-    link   = "categories/"
+    label  = "Tags"
+    link   = "tags/"
 
 # Enter a link for the follow button on the left
 [params.profile]
