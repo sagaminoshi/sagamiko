@@ -1,14 +1,14 @@
-+++
-title = "Formulas with MathJax"
-date = "2017-05-20T11:58:06+02:00"
-categories = []
-tags = []
-description = ""
-banner = "banners/placeholder.png"
-images = []
-menu = ""
-draft = true
-+++
+---
+title: "Formulas with MathJax"
+date: "2017-05-20T11:58:06+02:00"
+categories: []
+tags: []
+description: ""
+banner: "banners/placeholder.png"
+images: []
+menu: ""
+draft: true
+---
 
 Mathematical equations in form of LaTeX or MathML code can be rendered with the support of [MathJax](https://www.mathjax.org). MathML works out of the box. If you're using LaTeX you need to wrap your equation with `$$` as shown in the following example:
 
