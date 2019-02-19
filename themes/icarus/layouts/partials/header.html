@@ -18,13 +18,11 @@
           <a class="main-nav-link" href="{{ .URL }}">{{ .Name }}</a>
           {{ end }}
 
-<!--
           {{ range .Site.Params.menu }}
           {{ if not .before }}
           <a class="main-nav-link" href="{{ .link | absURL }}">{{ .label }}</a>
           {{ end }}
           {{ end }}
--->
 
       </nav>
         <nav id="sub-nav">
@@ -55,13 +53,13 @@
           {{ range .Site.Menus.main }}
           <td><a class="main-nav-link" href="{{ .URL }}">{{ .Name }}</a></td>
           {{ end }}
-<!--
+
           {{ range .Site.Params.menu }}
           {{ if not .before }}
           <td><a class="main-nav-link" href="{{ .link  | absURL }}">{{ .label }}</a></td>
           {{ end }}
           {{ end }}
--->
+
           <td>
           <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form">
           <input type="search" name="q" class="search-form-input" placeholder="Search">

@@ -64,7 +64,7 @@ themesDir = "themes"
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://twitter.com/sagami_no"
+    follow_button = "https://twitter.com/intent/follow?screen_name=sagami_no"
 
 
 [social]
