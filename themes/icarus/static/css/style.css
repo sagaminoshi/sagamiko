@@ -962,7 +962,7 @@ a.article-title:hover {
   font-family: "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
 }
 .article-entry blockquote footer cite:before {
-  content: "â€”";
+  content: "a?”";
   padding: 0 0.5em;
 }
 .article-entry .pullquote {
