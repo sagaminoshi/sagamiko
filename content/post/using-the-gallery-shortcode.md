@@ -7,7 +7,7 @@ banner = ""
 images = []
 description = ""
 menu = ""
-draft= true
+draft = true
 +++
 
 This way you can easily include a gallery into your page. Copy the code below into your content file and enter the relative paths to your images.
