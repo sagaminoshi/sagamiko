@@ -20,7 +20,7 @@ themesDir = "themes"
 [params]
     # Tell me who you are
     author = "さがみの/Sagamino"
-    bio = "Animation/Mathematics"
+    bio = "Animation"
     location = "Sendai"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
