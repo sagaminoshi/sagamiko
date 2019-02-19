@@ -4,9 +4,9 @@ date= 2019-02-19T12:24:05+09:00
 categories = []
 tags = []
 description = ""
-banner = ""
+banner = "banners/C9tCHFGU0AAyqyl.jpg"
 images = []
 menu = ""
-draft= false
+draft = false
 +++
 うおおおおおおおおおブログ立ち上げた！

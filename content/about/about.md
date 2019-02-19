@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = "2019-02-18T18:00:00+09:00"
-categories = []
+categories = ["about"]
 disable_comments = true
 menu = "main"
 +++

@@ -5,6 +5,7 @@ categories = []
 tags = ["golang", "programming", "theme", "hugo"]
 banner = "banners/C9tCHFGU0AAyqyl.jpg"
 menu = ""
+draft = true
 +++
 
 I'm a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
