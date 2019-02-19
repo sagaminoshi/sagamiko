@@ -6,7 +6,7 @@ disable_comments = true
 menu = "main"
 +++
 
-### さがみの/sagamino
+#### さがみの/sagamino
 ---  
 **主な活動場所**:Twitter  
 
