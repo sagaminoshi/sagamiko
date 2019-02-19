@@ -71,7 +71,7 @@ themesDir = "themes"
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    github          = "sagaminoshi"
+    github          = ""
     gitlab          = ""
     bitbucket       = ""
     jsfiddle        = ""
@@ -99,6 +99,11 @@ themesDir = "themes"
     facebook_admin  = ""
     twitter_domain  = ""
     twitter         = "sagami_no"
+
+    mastodon        = "@sagamino"
+    annict          = "@sagamino"
+    amazon          = "registry/wishlist/28VXS1055QQRF/ref=cm_sw_r_tw"
+
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]

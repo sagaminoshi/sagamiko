@@ -2,6 +2,20 @@
 <td><a href="//twitter.com/{{.}}" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></td>
 {{ end }}
 
+{{ with .Site.Social.mastodon }}
+<td><a href="//mstdn.jp/{{.}}" target="_blank" title="Mastodon"><i class="fa fa-medium"></i></a></td>
+{{ end }}
+
+{{ with .Site.Social.annict }}
+<td><a href="//annict.jp/{{.}}" target="_blank" title="Annict"><i class="fa fa-adn"></i></a></td>
+{{ end }}
+
+{{ with .Site.Social.amazon }}
+<td><a href="//amazon.co.jp//{{.}}" target="_blank" title="ほしいものリスト"><i class="fa fa-amazon"></i></a></td>
+{{ end }}
+
+
+
 {{ with .Site.Social.github }}
 <td><a href="//github.com/{{.}}" target="_blank" title="GitHub"><i class="fa fa-github"></i></a></td>
 {{ end }}
