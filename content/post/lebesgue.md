@@ -38,7 +38,14 @@ $\qquad\qquad \(2\) \quad \displaystyle \lim_{i \to \infty} f_i(x)=f(x) \quad \(
 $\quad このとき, $
 $$ \displaystyle \lim_{i\rightarrow\infty}\int_X f_i(x)dx = \int_X f(x)dx $$
 
-※fの可測性は(2)の仮定から自動的に成り立つ
+※fの可測性は(2)の仮定から自動的に成立.
 
 ---
+<<<<<<< HEAD
 markdownで数式書くのは苦行やね.
+=======
+
+
+
+markdownで数式書くのは苦行.
+>>>>>>> dc6b9ee84eed097958b23a6c2519fb7489da71bb
