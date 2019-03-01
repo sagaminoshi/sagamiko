@@ -23,7 +23,7 @@ $$ f_i(x)≦f_i(x) \quad k≧1 $$
 
 $\quad を満たすならば, $
 
-$$ \lim_{i\rightarrow\infty} \int_X f_i(x)dx = \int_X \lim_{i\rightarrow\infty} f_i(x)dx $$
+$$ \lim_i \int_X f_i(x)dx = \int_X \lim_i f_i(x)dx $$
 
 ---
 
