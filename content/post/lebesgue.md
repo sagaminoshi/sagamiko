@@ -7,7 +7,7 @@ description: ""
 banner: ""
 images: []
 menu: ""
-draft:
+draft: true
 ---
 
 自分用のtips  
@@ -41,3 +41,4 @@ $$ \displaystyle \lim_{i\rightarrow\infty}\int_X f_i(x)dx = \int_X f(x)dx $$
 ※fの可測性は(2)の仮定から自動的に成り立つ
 
 ---
+markdownで数式書くのは苦行やね.
