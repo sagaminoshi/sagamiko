@@ -23,7 +23,7 @@ $$ f_i(x)≦f_i(x) \quad k≧1 $$
 
 $\quad を満たすならば, $
 
-$$ \lim_i \int_X f_i(x)dx = \int_X \lim_i f_i(x)dx $$
+$$ \lim_{i\rightarrow\infty} \int_X f_i(x)dx = \int_X \lim_{i\rightarrow\infty} f_i(x)dx $$
 
 ---
 
@@ -38,6 +38,10 @@ $\qquad\qquad \(2\) \quad \displaystyle \lim_{i \to \infty} f_i(x)=f(x) \quad \(
 $\quad このとき, $
 $$ \displaystyle \lim_{i\rightarrow\infty}\int_X f_i(x)dx = \int_X f(x)dx $$
 
-※fの可測性は(2)の仮定から自動的に成り立つ
+※fの可測性は(2)の仮定から自動的に成立.
 
 ---
+
+
+
+markdownで数式書くのは苦行.
