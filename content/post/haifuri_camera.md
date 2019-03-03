@@ -7,7 +7,7 @@ description: ""
 banner: ""
 images: []
 menu: ""
-draft:
+draft: true
 ---
 
 <!--
