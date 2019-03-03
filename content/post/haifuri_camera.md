@@ -77,7 +77,7 @@ dのsp_akenohとかsp_mashirohはラーメンの上によくいるやつ
 <br/>
 <br/>
 **余談**  
-一応[exe化したもの](/file/haifuri_frame_dl.exe)も用意しましたが～、くれぐれも先方への攻撃とならないようにお願いします。
+一応[exe化したもの](/file/haifuri_frame_dl.exe)も用意しましたが～、くれぐれも先方への攻撃とならないようお願いします。あとめちゃくちゃ遅いです
 
 コード(言語はpython3)
 ```python:haifuri_frame_dl.py
