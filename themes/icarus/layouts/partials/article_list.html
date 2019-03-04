@@ -11,7 +11,7 @@
         {{ partial "article_header" . }}
         <div class="article-entry" itemprop="articleBody">
             <p>
-                {{ .Description | default .Summary }}
+                {{ .Summary | default .Description }}
             </p>
             <p class="article-more-link">
                 <a href="{{ .Permalink }}">

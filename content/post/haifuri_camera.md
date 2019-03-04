@@ -3,7 +3,7 @@ title: "脱法はいふりカメラ"
 date: 2019-03-02T23:12:06+09:00
 categories: ["アニメ"]
 tags: ["ハイスクール・フリート"]
-description: "" 
+description: "はいふりカメラのフレームをサーバから一括してダウンロードするプログラムを書きました。" 
 banner: "/banners/haifuri_OGimage_20181213.png"
 images: ["/banners/haifuri_OGimage_20181213.png"]
 menu: ""

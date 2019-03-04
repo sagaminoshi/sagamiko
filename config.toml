@@ -1,12 +1,12 @@
 baseurl = "https://sagamino.netlify.com/"
-languageCode = "en-us"
+languageCode = "ja"
 title = "相模湖畔"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 # Define the number of posts per page
-paginate = 4
+paginate = 5
 footnotereturnlinkcontents = "?"
 theme = "icarus"
 # Comment the themesDir option if you use this theme in production
@@ -24,11 +24,12 @@ themesDir = "themes"
     location = "Sendai"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
-    avatar = "css/images/mashiro_02_0.png"
+    avatar = "/images/mashiro_02_0.png"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme
     # will fallback to the avatar.
     gravatar = ""
-    logo = "css/images/logo_01.png"
+    logo = "/images/logo_01.png"
+	images = ["/images/logo_01.png"]
     disable_mathjax = false # set to true to disable MathJax
 
     # define which types of pages should be shown. By default the type with the most regular pages
