@@ -37,10 +37,10 @@ http://app.aniplex.co.jp/hai-furi/assets/img/camera/frame/sp012w.png
 はいふりカメラのフレームこの記事を書いた2019/3/3時点で252枚。同類のアプリの中では群を抜いています。  
 これは以下のような構成になっています。 
 
-a:001-037  
-b:040-105  
-c:sp001-sp030  
-d:frame_h,frame_w,harekaze_w,sp_akenoh,sp_mashiroh,sp_minahなど特殊な名前のもの  
+a.001-037  
+b.040-105  
+c.sp001-sp030  
+d.frame_h､frame_w､harekaze_w､sp_akenoh､sp_mashiroh､sp_minahといった特殊な名前のもの(この6つで全部)  
 
 a-cに関しては"008w"のように番号のあとに"h"か"w"が付いてそれぞれフレームの縦横に対応しています。cについては縦フレームがあったり無かったりします。  
 a,c,dはリリース時からあったノーマルフレームとスペシャルフレームで、bは後から追加されたスペシャルフレームです。ファイル名で区別するのが面倒になったのでしょう。  
