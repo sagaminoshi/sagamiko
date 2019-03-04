@@ -5,7 +5,7 @@ categories: ["アニメ"]
 tags: ["ハイスクール・フリート"]
 description: "" 
 banner: "banners/haifuri_OGimage_20181213.png"
-images: ["https://sagamino.netlify.com/banners/haifuri_OGimage_20181213.png"]
+images: ["/banners/haifuri_OGimage_20181213.png"]
 menu: ""
 draft:
 ---

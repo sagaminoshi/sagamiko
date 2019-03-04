@@ -6,7 +6,7 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 # Define the number of posts per page
-paginate = 10
+paginate = 4
 footnotereturnlinkcontents = "?"
 theme = "icarus"
 # Comment the themesDir option if you use this theme in production
@@ -52,10 +52,11 @@ themesDir = "themes"
     label  = "Home"
     link   = "/"
 
-[[params.menu]]
-    before = false
-    label  = "Tags"
-    link   = "tags/"
+
+# [[params.menu]]
+#     before = false
+#     label  = "Tags"
+#     link   = "tags/"
 
 [[params.menu]]
     before = false
