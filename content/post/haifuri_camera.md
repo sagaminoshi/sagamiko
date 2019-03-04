@@ -3,23 +3,20 @@ title: "脱法はいふりカメラ"
 date: 2019-03-02T23:12:06+09:00
 categories: ["アニメ"]
 tags: ["ハイスクール・フリート"]
-description: ""
+description: "" 
 banner: "banners/haifuri_OGimage_20181213.png"
 images: ["https://sagamino.netlify.com/banners/haifuri_OGimage_20181213.png"]
 menu: ""
-draft: 
+draft:
 ---
-
-<!--
-はいふりアプリが起動する都度サーバーと通信を行っていることははいふり博士諸氏の間では周知の事実である。中でも厄介なのは、本アプリのメイン、一部ではコンテンツ全体の中核とも目されるはいふりカメラがフレームを読みこむ動作だ。電波の通じにくい高原で撮影しようものなら目も当てられないことになるのは想像に難くない。
--->
-
 はいふりカメラのフレームをサーバから一括してダウンロードするプログラムを書きました。
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">はいふりカメラ全フレームをOne Driveに保存完了した</p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/987207023589642240?ref_src=twsrc%5Etfw">2018年4月20日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr"> Driveに保存完了した</p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/987207023589642240?ref_src=twsrc%5Etfw">2018年4月20日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 という作業を行ったのが1年ほど前で、この間に新規で追加されたフレーム、そして今後も追加されるであろうフレーム(なんとはいふりは今後ソシャゲと劇場版が控えています！)に対してもhtmlのソースを確認して手作業で保存するのが面倒になったからです。
+
+<!--more-->
 
 コードを公開するにあたって、公式に配布した画像ではないという懸念がありますが、はいふりアプリ自体がWebViewなので特に問題は無いような気がします。
 <br/>
