@@ -101,11 +101,10 @@ for i in range(1,150):
 
 	for frame_name in frame_name_list:
 
-# verify=Falseで自己証明書でもスキップする
-		if os.path.exists(r".\haifuri_frame/" + frame_name) == 0:
-			r = requests.get(url + frame_name, stream=True, verify=False)
+		if os.path.exists(".\\haifuri_frame/" + frame_name) == 0:
+			r = requests.get(url + frame_name, stream=True)
 			if r.status_code == 200:
-				with open(r".\haifuri_frame/" + frame_name , 'wb') as f:
+				with open(".\\haifuri_frame/" + frame_name , 'wb') as f:
 					r.raw.decode_content = True
 					shutil.copyfileobj(r.raw, f)
 					print (frame_name+" をダウンロードしました。")
@@ -118,10 +117,10 @@ for i in range(1, 50):
 
 	for frame_name in frame_name_list:
 
-		if os.path.exists(r".\haifuri_frame/" + frame_name) == 0:
-			r = requests.get(url + frame_name, stream=True, verify=False)
+		if os.path.exists(".\\haifuri_frame/" + frame_name) == 0:
+			r = requests.get(url + frame_name, stream=True)
 			if r.status_code == 200:
-				with open(r".\haifuri_frame/" + frame_name , 'wb') as f:
+				with open(".\\haifuri_frame/" + frame_name , 'wb') as f:
 					r.raw.decode_content = True
 					shutil.copyfileobj(r.raw, f)
 					print (frame_name+" をダウンロードしました。")
@@ -133,7 +132,7 @@ frame_name_list = ["frame_","sp_akeno","sp_mashiro","sp_mina","harekaze_"]
 
 for frame_name in frame_name_list:
 	if os.path.exists(".\\haifuri_frame/" + frame_name + "h.png") == 0:
-		r = requests.get(url+frame_name+"h.png", stream=True, verify=False)
+		r = requests.get(url+frame_name+"h.png", stream=True)
 		if r.status_code == 200:
 			with open(".\\haifuri_frame/" + frame_name + "h.png", 'wb') as f:
 				r.raw.decode_content = True
@@ -141,7 +140,7 @@ for frame_name in frame_name_list:
 				print (frame_name+"h をダウンロードしました。")
 
 	if os.path.exists(".\\haifuri_frame/" + frame_name + "w.png") == 0:
-		r = requests.get(url+frame_name+"w.png", stream=True, verify=False)
+		r = requests.get(url+frame_name+"w.png", stream=True)
 		if r.status_code == 200:
 			with open(".\\haifuri_frame/" + frame_name + "w.png", 'wb') as f:
 				r.raw.decode_content = True
