@@ -3,7 +3,7 @@ title: "About"
 date: "2019-02-18T18:00:00+09:00"
 categories: ["about"]
 banner: ""
-small_images: ["https://sagamino.netlify.com/banners/Anihonetwallpaper15987.jpg"]
+small_images: ["/banners/Anihonetwallpaper15987.jpg"]
 disable_comments: true
 menu: "main"
 ---
