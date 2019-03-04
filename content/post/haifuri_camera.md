@@ -34,7 +34,7 @@ http://app.aniplex.co.jp/hai-furi/assets/img/camera/frame/sp012w.png
 <br/>
 
 **数あるフレームの構成**  
-はいふりカメラのフレームこの記事を書いた2019/3/3時点で252枚。同類のアプリの中では群を抜いています。  
+はいふりカメラのフレームはこの記事を書いた2019/3/3時点で252枚。同類のアプリの中では群を抜いています。  
 これは以下のような構成になっています。 
 
 a.001-037  
@@ -143,4 +143,3 @@ for frame_name in frame_name_list:
 				shutil.copyfileobj(r.raw, f)
 				print (frame_name+"w をダウンロードしました。")
 ```
-
