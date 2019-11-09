@@ -4,8 +4,8 @@ date: 2019-03-02T23:12:06+09:00
 categories: ["アニメ"]
 tags: ["Diary"]
 description:
-banner: "EHG026uU0AA6d8l.jpg"
-images: ["/banners/haifuri_OGimage_20181213.png"]
+banner: "/banners/haifuri_OGimage_20181213.png"
+images:
 menu: ""
 draft:
 ---
