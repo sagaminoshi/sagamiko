@@ -118,7 +118,7 @@ body,
 body {
   color: #565a5f;
   background: #f5f8f9;
-  font: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
+  font: 14px Arial,"open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 a {
@@ -1971,7 +1971,7 @@ ol.toc {
   box-sizing: border-box;
   padding: 12px 28px 12px 20px;
   border-bottom: 1px solid #e2e2e2;
-  font-family: "arial","Microsoft Yahei Light", "Microsoft Yahei", Helvetica, Arial, sans-serif;
+  font-family: "Microsoft Yahei Light", "Microsoft Yahei", Helvetica, Arial, sans-serif;
 }
 .ins-close {
   top: 50%;
