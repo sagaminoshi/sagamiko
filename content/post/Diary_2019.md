@@ -1,12 +1,12 @@
 ---
-title: "Diary 2019"
-date: 2019-03-02T23:12:06+09:00
+title: "DIARY 2019"
+date: 2019-11-09T23:12:06+09:00
 categories: ["diary"]
 tags: []
 description:
 banner: "/banners/EHG026uU0AA6d8l.jpg"
 images: ["/banners/EHG026uU0AA6d8l.jpg"]
-menu: ""
+menu: 
 draft:
 ---
 2019/11/9   
