@@ -4,7 +4,7 @@ date: 2019-03-02T23:12:06+09:00
 categories: ["アニメ"]
 tags: ["ハイスクール・フリート"]
 description: "はいふりカメラのフレームをサーバから一括してダウンロードするプログラムを書きました。" 
-banner: "/banners/haifuri_OGimage_20181213.webp"
+banner: "/banners/haifuri_OGimage_20181213.png"
 images: [""]
 menu: ""
 draft:
