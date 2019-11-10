@@ -5,7 +5,7 @@ categories: ["Diary"]
 tags: []
 description:
 banner: "/banners/Melida_Angel.jpg"
-images: [""]
+images: ["/banners/Melida_Angel.jpg"]
 menu: 
 draft:
 ---

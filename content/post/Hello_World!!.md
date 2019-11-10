@@ -5,7 +5,7 @@ categories: []
 tags: []
 description: ""
 banner: "/banners/Arisaka.Mashiro.full.1809833.jpg"
-images: [""]
+images: ["/banners/Arisaka.Mashiro.full.1809833.jpg"]
 menu: ""
 draft: false
 ---
