@@ -16,7 +16,7 @@ menu: "main"
 **Keywords**:Animation/まんがタイムきらら/サッカー(主に国内)  
 
 アイコンは蒼の彼方のフォーリズムの有坂真白ちゃん！
-
+<!--more-->
 **アカウント群**  
 Twitter:[@sagami_no](//twitter.com/sagami_no)  
 基本的にここにいます.このあとすぐ！
