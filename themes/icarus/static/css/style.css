@@ -118,7 +118,7 @@ body,
 body {
   color: #565a5f;
   background: #f5f8f9;
-  font: 14px Arial,"open sans", "Helvetica Neue", Helvetica, sans-serif;
+  font: 14px Arial,"open sans", "Helvetica Neue", Helvetica,sans-serif, "Microsoft Yahei";
   -webkit-text-size-adjust: 100%;
 }
 a {
