@@ -2176,3 +2176,8 @@ ol.toc {
 .widget-title {
   text-transform:capitalize;
 }
+
+/* /layouts/partials/article_header.html */
+.article-category a{
+  text-transform:none;
+}
