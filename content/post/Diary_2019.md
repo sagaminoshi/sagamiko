@@ -1,7 +1,7 @@
 ---
 title: "DIARY 2019"
 date: 2019-11-09T23:12:06+09:00
-categories: ["diary"]
+categories: ["Diary"]
 tags: []
 description:
 banner: "/banners/EHG026uU0AA6d8l.jpg"

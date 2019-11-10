@@ -1914,7 +1914,6 @@ ol.toc {
 }
 #recent-post li .item-inner .item-title a {
   color: #333;
-  text-transform:none;
   -webkit-transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
@@ -2155,4 +2154,22 @@ ol.toc {
 .highlight .code .type,
 .highlight .code .selector-id {
   font-weight: bold;
+}
+
+
+/* 以下sagamino　*/
+
+/* /layouts/partials/widgets/recent_articles.html */
+#recent-post li .item-inner .item-title a {
+  text-transform:none;
+}
+
+
+#recent-post li .item-inner .item-category a {
+  text-transform:none;
+}
+
+/* /layouts/partials/widgets/categories.html */
+.widget-wrap .widget .category-list .category-list-item .category-list-link{
+  text-transform:capitalize;
 }

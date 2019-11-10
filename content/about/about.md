@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: "2019-02-18T18:00:00+09:00"
-categories: ["about"]
+categories: ["About"]
 banner: ""
 description: "さがみの/sagaminoの自己紹介" 
 images: ["/banners/Anihonetwallpaper15987.jpg"]
