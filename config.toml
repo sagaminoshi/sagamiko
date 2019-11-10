@@ -14,7 +14,7 @@ themesDir = "themes"
 
 
 [permalinks]
-    post = "/content/:filename"
+    post = "/article/:filename"
 
 
 [params]
