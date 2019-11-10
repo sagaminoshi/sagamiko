@@ -4,8 +4,8 @@ date: 2019-11-09T23:12:06+09:00
 categories: ["Diary"]
 tags: []
 description:
-banner: "/banners/EHG026uU0AA6d8l.jpg"
-images: ["/banners/EHG026uU0AA6d8l.jpg"]
+banner: "/banners/a270fa77-a9ca-45e6-a071-1f5c8228d093.webp"
+images: [""]
 menu: 
 draft:
 ---
