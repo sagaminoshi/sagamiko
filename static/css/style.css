@@ -2164,12 +2164,15 @@ ol.toc {
   text-transform:none;
 }
 
-
 #recent-post li .item-inner .item-category a {
   text-transform:none;
 }
 
 /* /layouts/partials/widgets/categories.html */
-.widget-wrap .widget .category-list .category-list-item .category-list-link{
+.category-list-link {
+  text-transform:capitalize;
+}
+
+.widget-title {
   text-transform:capitalize;
 }
