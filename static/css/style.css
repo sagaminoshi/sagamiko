@@ -2158,26 +2158,33 @@ ol.toc {
 
 
 /* 以下sagamino　*/
+.widget-title {
+  text-transform: capitalize;
+}
+
 
 /* /layouts/partials/widgets/recent_articles.html */
 #recent-post li .item-inner .item-title a {
-  text-transform:none;
+  text-transform: none;
 }
 
 #recent-post li .item-inner .item-category a {
-  text-transform:none;
+  text-transform: capitalize;
 }
 
 /* /layouts/partials/widgets/categories.html */
+/* /layouts/partials/widgets/tags.html */
 .category-list-link {
-  text-transform:none;
+  text-transform: capitalize;
 }
 
-.widget-title {
-  text-transform:capitalize;
+.category-list-link[href*="t7s"]{
+  text-transform: none;
 }
+
+
 
 /* /layouts/partials/article_header.html */
-.article-category a{
-  text-transform:none;
+.article-category a {
+  text-transform: none;
 }
