@@ -29,4 +29,4 @@ Re:ステージ！PRISM LIVE!3rd STAGE～Reflection～に行ってきた。昼�
 ナナシスのサブスクが解禁されました。時代の流れですね
 
 11&#047;22 アサシンズプライド 6話
-![](/images/スクリーンショット 2019-11-22 20.56.29.png)
+![](/images/Melida_Angel_2.jpg)
