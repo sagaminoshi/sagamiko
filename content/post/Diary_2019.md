@@ -30,3 +30,5 @@ Re:ステージ！PRISM LIVE!3rd STAGE～Reflection～に行ってきた。昼�
 
 11&#047;22 アサシンズプライド 6話
 ![](/images/Melida_Angel_2.jpg)
+
+11&#047;23 DISCO presents ディスカバリーチャンネル コードコンテスト2020 予選に参加。D問題までできた。
