@@ -4,8 +4,8 @@ date: 2019-12-31T23:00:00+09:00
 categories: [""]
 tags: [""]
 description: ""
-banner: "/banners/music_2019.png"
-images: ["/banners/music_2019.png"]
+banner: "/banners/music_2019s.png"
+images: ["/banners/music_2019s.png"]
 menu: ""
 draft:
 ---
