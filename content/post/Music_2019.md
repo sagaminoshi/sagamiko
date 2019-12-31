@@ -97,22 +97,24 @@ http://t7s.jp/release/ingame/74.html より
 WUG3の禍根と肝心の歌唱の問題で当初はなんだこれって印象だったが、最近は結構好きになってきた。要するに和解できたということなのかもしれない。  
 オススメはBreak the Blue!!  
 ガーリー・エアフォースの作風やグリペンのポンコツさ加減ととにかくマッチしていた。  
-アサシンズプライドOPのShare the lightも良かった。(映像も可愛い)  今度一通り聴いてみようと思う。
+アサシンズプライドOPのShare the lightも良かった(映像も可愛い)から今度一通り聴いてみようと思う。
 
 **はじめてのかくめい！/DIALOGUE+**  
 <iframe src="https://open.spotify.com/embed/track/644euUXxSK5joo3QV9wGbB" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
+(Hello, nice to meet you, yeah！)  
 作詞作曲は田淵智也。  
-上で紹介したミツバチと、同じ女性声優に歌わせてもアプローチの違いでここまで違うと妙に笑えてくる  
+今年の他の田淵楽曲、"ミツバチ"や"せーので跳べって言ってんの！/本城香澄(岩橋由佳)"と比べて、こうも頭の悪い曲調だと妙に笑えてくる。  
+ユニゾンのカバーが聴きたいね。
 <br><br>
 #### 最後に  
 音楽面に留まらず、自分の中ではリステとナナシスの存在が際立った1年でした。  
 
 リステは今まで少数陣営で動いてきただけあって、声優さんや伊藤翼さんら作曲陣の作品に対する理解度の高さが印象的でした。
 楽曲サイドが会議に参加していただけあって、アニメの方にもそれは反映されていたと思う。  
-アニメ放送直後という重要な局面で、出し惜しみすることなく曲をやれるだけやるという選択が取れるのも、築いてきたものへの絶対の自信が窺える。報われてよかったね；；
+アニメ放送直後のライブという重要な局面で、出し惜しみすることなく曲をやれるだけやるという選択が取れるのも、築いてきたものへの絶対の自信が窺える。報われてよかったね；；
   
 ナナシスは4.0,0.7と1年を通して作品の苦しい部分を見せ続けてきたのが、年の瀬という最後の最後に明るい未来を提示してくれたのがとても嬉しかった。  
-今は数日前に出たEPISODE 5.0 -Fall in Love-の予告トレイラーを繰り返し再生しています。  
+数日前に出たEPISODE 5.0 -Fall in Love-の予告トレイラーは繰り返し再生しています。  
 
 <iframe width="320" height="180" src="https://www.youtube.com/embed/TfeKvLtOtLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
