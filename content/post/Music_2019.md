@@ -1,15 +1,16 @@
 ---
 title: "2019楽曲10選"
-date: 2019-12-30T21:06:52+09:00
+date: 2019-12-31T12:00:00+09:00
 categories: [""]
 tags: [""]
 description: ""
-banner: "/banners/music_2019.png"
-images: ["/banners/music_2019.png"]
+banner: "/banners/music_2019s.png"
+images: ["/banners/music_2019s.png"]
 menu: ""
 draft:
 ---
 別にはてなブログを開設して、このサイトは各種リンクを最低限配置するに留めるか、悩んでるうちに更新が億劫になってました。あとで移行するにしても楽じゃないし。  
+
 さて、今年の10選 楽曲編です  
 結論から述べるとラインナップは以下の通り。並びはリリース順です。  
 <!--more-->
@@ -43,7 +44,10 @@ draft:
 
 
 **6.Home Sweet Home/Neko Hacker**  
-{{< figure src="/images/music_2019/Happy_Typhoon.jpg"  class="center" width="700" height="700" >}}  
+{{< figure src="/images/music_2019/Home Sweet Home.jpg"  class="center" width="700" height="700" >}}  
+
+1日ゴロゴロパソコン開いて…君のタイムラインにツイート並べて…  
+Neko Hackerから一曲。選出理由は至ってシンプルで"ツイッターのうた"だから。  
 
 
 **7.We can go now!/イルミネーションスターズ**  
