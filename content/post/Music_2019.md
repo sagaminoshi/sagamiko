@@ -22,23 +22,19 @@ draft:
 
 **1.Wonder Caravan!/水瀬いのり**  
 <iframe src="https://open.spotify.com/embed/track/0CESwF3IZVYrSMHVTO5X9G" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
-
 2019冬クールの誇る名作『えんどろ～！』のエンディング。  
 個人的には声優さんの曲は技巧を凝らしたものより、Wonder Caravan!のように声質を素直に活かしたものの方が好き。
 
 
 **2.あのね/伊津村紫**  
 <iframe src="https://open.spotify.com/embed/track/5mGaqRaG9nuccjGET1Y6hf" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
-
-<!-- {{< figure src="/images/music_2019/anone.jpg"  class="center" width="300" height="300" >}}-->  
-
-小澤亜李氏の声が好きなので…
+小澤亜李氏の声が好きなので…  
+紫ちゃん；；
 
 **3.ハッピータイフーン/KiRaRe**  
 <iframe src="https://open.spotify.com/embed/track/5VcQo3g6xzBAY9qe8k0Wa8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
 Don't think スマイル!!とで悩みましたが、こちらを選出。  
-音数の多さが目立つが、かといってとっ散らかった印象は無い。  
-全体として一つの方向に向かっている力強さを感じさせてくれる。  
+音数の多さが目立つが、かといってとっ散らかった印象は無い。曲全体で一つの方向に向かっている力強さを感じさせてくれる。  
 367Daysで一先ず自分たちの夢を叶えたこの子たちが、"みんな"を主語にした曲を歌う流れは思わず嬉しくなっちゃうね。  
 
 
@@ -51,7 +47,7 @@ Don't think スマイル!!とで悩みましたが、こちらを選出。
 <iframe src="https://open.spotify.com/embed/track/4OGu4sTXHsvgjJRIY0mrk6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
 本当にすみません…  
 クオリティの観点ではステテクレバーを選ぶべきだが、前述の理由(Wonder Caravan!の参照)によりこっちの方が好き。  
-禄に音楽の素養の無い人間だけどログラインの完成度の高さは俺でも実感できたよ。
+ログラインの完成度の高さは、禄に音楽素養の無い俺でも実感できたよ。
 
 **6.Home Sweet Home/Neko Hacker**   
 <iframe src="https://open.spotify.com/embed/track/1NQivSFUHRA4rFmgQpyyz2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
@@ -61,8 +57,7 @@ Neko Hackerから一曲。"ツイッターのテーマソング"なので取り�
 
 **7.We can go now!/イルミネーションスターズ**  
 <iframe width="320" height="180" src="https://www.youtube.com/embed/Ela9WiovqgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-シャニは昨今のトレンドに則って各ユニットの統一感を志向しているのが、時にそれが枷になっている気もする。  
-その点でいえばイルミネーションスターズは今のところ上手く行っていて、曲のバリエーションも確保されているように見える。  
+シャニは昨今のトレンドに則って各ユニットの統一感を志向しているのが、時にそれが枷になっている気もする。その点でいえばイルミネーションスターズは今のところ上手く行っていて、曲のバリエーションも確保されているように見える。  
 
 **8.ミツバチ/Le☆S☆Ca**  
 <iframe src="https://open.spotify.com/embed/track/2fiOKkHEk9A8bLL6WyfDpk"  width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
