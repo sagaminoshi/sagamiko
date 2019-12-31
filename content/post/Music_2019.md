@@ -94,7 +94,7 @@ http://t7s.jp/release/ingame/74.html より
 
 **Break the Blue!!/Run Girls, Run！**  
 <iframe src="https://open.spotify.com/embed/track/0vZCl0o8HpUiUJiBaUs3T2" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
-WUG3の禍根と肝心の歌唱の問題で当初はなんだこれって印象だったが、最近は結構好きになってきた。要するに和解できたということなのかもしれない。  
+WUG3と肝心の歌唱の問題で当初はなんだこれって印象だったが、最近は結構好きになってきた。要するに和解できたということなのかもしれない。  
 オススメはBreak the Blue!!  
 ガーリー・エアフォースの作風やグリペンのポンコツさ加減ととにかくマッチしていた。  
 アサシンズプライドOPのShare the lightも良かった(映像も可愛い)から今度一通り聴いてみようと思う。
