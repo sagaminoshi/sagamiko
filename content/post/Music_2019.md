@@ -21,7 +21,7 @@ draft:
 
 
 **1.Wonder Caravan!/水瀬いのり**  
-{{< figure src="/images/music_2019/Wonder Caravan!.jpg"  class="center" width="300" height="300" >}}  
+<iframe src="https://open.spotify.com/embed/track/0CESwF3IZVYrSMHVTO5X9G" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
 
 2019冬クールの誇る名作『えんどろ～！』のエンディング。  
 個人的には声優さんの曲は技巧を凝らしたものより、Wonder Caravan!のように声質を素直に活かしたものの方が好き。
@@ -35,7 +35,7 @@ draft:
 小澤亜李氏の声が好きなので…
 
 **3.ハッピータイフーン/KiRaRe**  
-{{< figure src="/images/music_2019/Happy_Typhoon.jpg"  class="center" width="300" height="300" >}}  
+<iframe src="https://open.spotify.com/embed/track/5VcQo3g6xzBAY9qe8k0Wa8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
 Don't think スマイル!!とで悩みましたが、こちらを選出。  
 音数の多さが目立つが、かといってとっ散らかった印象は無い。  
 全体として一つの方向に向かっている力強さを感じさせてくれる。  
@@ -43,7 +43,7 @@ Don't think スマイル!!とで悩みましたが、こちらを選出。
 
 
 **4.O-Ku-Ri-Mo-No-Sunday!/久川凪,久川楓**  
-{{< figure src="/images/music_2019/O-Ku-Ri-Mo-No Sunday!.jpg"  class="center" width="300" height="300" >}}  
+<iframe width="320" height="180" src="https://www.youtube.com/embed/Fa1YczPNxYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 
 **5.ファーストプロット/夏川椎菜**  
@@ -60,7 +60,7 @@ Neko Hackerから一曲。"ツイッターのテーマソング"なので取り�
 
 
 **7.We can go now!/イルミネーションスターズ**  
-{{< figure src="/images/music_2019/We can go now!.jpg"  class="center" width="300" height="300" >}}  
+<iframe width="320" height="180" src="https://www.youtube.com/embed/Ela9WiovqgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 シャニは昨今のトレンドに則って各ユニットの統一感を志向しているものの、逆にそれが枷になってる気もする。  
 その点でいえばイルミネーションスターズは今のところ上手く行っていて、曲のバリエーションも確保されているように見える。  
@@ -86,14 +86,20 @@ Neko Hackerから一曲。"ツイッターのテーマソング"なので取り�
 まちカドまぞくは結局アニメ化しないのではないかという勝手な憶測のもと、頭の中でソリッドな作りの映像(P.A.WORKSみたいな)を想像していました。だから実際に放送が始まると、そのギャップに戸惑いもしたが、今は肯定的に受け止められている。  
 このエンディング曲はアニメを理解する上で助けになった。  
 サビに入ると同時にBPMが上がってユニゾンになるのが作品との整合性もあり、大変心地よい。  
-
-**その他**  
+<br><br>
+#### その他
 **ひよこのうた/Le☆S☆Ca**  
 <iframe src="https://open.spotify.com/embed/track/0enNeODIEPzhME5K5EO3ui" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
-前述の「ミツバチ」のB面。"「あっち向いてもこっち向いても人生はジェットコースター」なんて文字が書かれたハワイ土産のコースター"がダジャレになってることに半年経って気づいた。  
+前述の「ミツバチ」のB面。"「あっち向いてもこっち向いても人生はジェットコースター」なんて文字が書かれたハワイ土産のコースター"がダジャレであることに半年経って気がついた。  
 仙台には駅前パルコが2つあるからね。  
 
-**最後に**  
+**はじめてのかくめい！/DIALOGUE+**  
+<iframe src="https://open.spotify.com/embed/track/644euUXxSK5joo3QV9wGbB" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
+作詞作曲は田淵智也。  
+上で紹介したミツバチと、同じ女性声優に歌わせてもアプローチの違いでここまで違うと妙に笑えてくる  
+
+<br><br>
+#### 最後に  
 音楽面に留まらず、自分の中ではリステとナナシスの存在が際立った1年でした。  
 
 リステは今まで少数陣営で動いてきただけあって、声優さんや伊藤翼さんら作曲陣の作品に対する理解度の高さが好印象でした。楽曲サイドが会議に参加していただけあって、アニメの方にもそれは反映されていたと思う。  
@@ -101,7 +107,7 @@ Neko Hackerから一曲。"ツイッターのテーマソング"なので取り�
 ナナシスは4.0,0.7と1年を通して作品の苦しい部分を見せ続けてきたのが、年の瀬という最後の最後に明るい未来を提示してくれたのがとても嬉しかった。  
 数日前に出たEPISODE 5.0 -Fall in Love-の予告トレイラーは繰り返し再生しています。  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TfeKvLtOtLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="320" height="180" src="https://www.youtube.com/embed/TfeKvLtOtLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **瞬けば未来――やがては黄金の秋**  
 
