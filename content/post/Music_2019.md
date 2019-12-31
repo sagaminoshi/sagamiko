@@ -83,12 +83,13 @@ Neko Hackerから一曲。"ツイッターのテーマソング"なので取り�
 
 **10.よいまちカンターレ/shami momo**  
 <iframe src="https://open.spotify.com/embed/track/0rKRYL0SDNfUekNA9WG3NW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
-まちカドまぞくは結局アニメ化しないのではないかという憶測のもと、勝手に頭の中でソリッドな作りの映像(P.A.WORKSみたいな)を想像していた。だから実際に放送が始まると、そのギャップに戸惑いもしたが、今は肯定的に受け止められている。  
-この曲はまぞくアニメを理解する上で助けになった。  
-サビに入ると同時にBPMが上がってユニゾンになるのが作品との整合性もあり、大変気持ち良い。  
+まちカドまぞくは結局アニメ化しないのではないかという勝手な憶測のもと、頭の中でソリッドな作りの映像(P.A.WORKSみたいな)を想像していました。だから実際に放送が始まると、そのギャップに戸惑いもしたが、今は肯定的に受け止められている。  
+このエンディング曲はアニメを理解する上で助けになった。  
+サビに入ると同時にBPMが上がってユニゾンになるのが作品との整合性もあり、大変心地よい。  
 
 **その他**  
 **ひよこのうた/Le☆S☆Ca**  
+<iframe src="https://open.spotify.com/embed/track/0enNeODIEPzhME5K5EO3ui" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
 前述の「ミツバチ」のB面。"「あっち向いてもこっち向いても人生はジェットコースター」なんて文字が書かれたハワイ土産のコースター"がダジャレになってることに半年経って気づいた。  
 仙台には駅前パルコが2つあるからね。  
 
@@ -97,8 +98,10 @@ Neko Hackerから一曲。"ツイッターのテーマソング"なので取り�
 
 リステは今まで少数陣営で動いてきただけあって、声優さんや伊藤翼さんら作曲陣の作品に対する理解度の高さが好印象でした。楽曲サイドが会議に参加していただけあって、アニメの方にもそれは反映されていたと思う。  
   
-ナナシスは4.0,0.7と1年を通してあの世界の苦しい側面を見せ続けたわけだが、年の瀬という最後の最後に明るい未来を提示してくれたのがとても嬉しかった。  
+ナナシスは4.0,0.7と1年を通して作品の苦しい部分を見せ続けてきたのが、年の瀬という最後の最後に明るい未来を提示してくれたのがとても嬉しかった。  
 数日前に出たEPISODE 5.0 -Fall in Love-の予告トレイラーは繰り返し再生しています。  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TfeKvLtOtLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **瞬けば未来――やがては黄金の秋**  
 
