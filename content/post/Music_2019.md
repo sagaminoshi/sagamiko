@@ -44,11 +44,11 @@ Don't think スマイル!!とで悩みましたが、こちらを選出。
 
 **4.O-Ku-Ri-Mo-No-Sunday!/久川凪,久川楓**  
 <iframe width="320" height="180" src="https://www.youtube.com/embed/Fa1YczPNxYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+凪ちゃんのフラットな声で歌うラップパートが好き
 
 
 **5.ファーストプロット/夏川椎菜**  
 <iframe src="https://open.spotify.com/embed/track/4OGu4sTXHsvgjJRIY0mrk6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
-
 本当にすみません…  
 クオリティの観点ではステテクレバーを選ぶべきだが、前述の理由(Wonder Caravan!の参照)によりこっちの方が好き。  
 禄に音楽の素養の無い人間だけどログラインの完成度の高さは俺でも実感できたよ。
@@ -61,24 +61,28 @@ Neko Hackerから一曲。"ツイッターのテーマソング"なので取り�
 
 **7.We can go now!/イルミネーションスターズ**  
 <iframe width="320" height="180" src="https://www.youtube.com/embed/Ela9WiovqgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-シャニは昨今のトレンドに則って各ユニットの統一感を志向しているものの、逆にそれが枷になってる気もする。  
+シャニは昨今のトレンドに則って各ユニットの統一感を志向しているのが、時にそれが枷になっている気もする。  
 その点でいえばイルミネーションスターズは今のところ上手く行っていて、曲のバリエーションも確保されているように見える。  
-
 
 **8.ミツバチ/Le☆S☆Ca**  
 <iframe src="https://open.spotify.com/embed/track/2fiOKkHEk9A8bLL6WyfDpk"  width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
-
 ナナシスに触れたのがここ1年とそこらなので,ここに至るまでの文脈は共有していないというのが正直なところ。  
 そういった後ろめたさはありながら、それでも選ぶことにしました。  
-インストで聴くとボーカルや歌詞の抑揚と曲が驚くほど同期しているのが分かる。  
-
+インストで聴くと曲が驚くほど歌詞や歌唱の抑揚に寄り添っていると感じる。  
 
 
 **9.夏のビードロ☆シンフォニー/777☆SISTERS**  
 <iframe src="https://open.spotify.com/embed/track/2dpcvX1uzk3zKX16BjDEBm" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
-ごく一般的なシチュエーションを対象にしたサマーソング  
-表題曲のNATSUKAGE-夏陰-に続いて聴くことで本曲の普遍性が際立つ
+"『NATSUKAGE -夏陰-』のカップリングとして登場した本曲は、  
+777☆SISTERSにとっては久しぶりのキュンキュン恋ソンであり、  
+こちらは初めてとなる夏の恋がテーマとなっている。  
+甘酸っぱい情景が目に浮かぶ歌の世界が、  
+恋する全ての人の背中を優しく押してくれるだろう。"    
+http://t7s.jp/release/ingame/74.html より  
+
+この文面は誰が考えているんだろうね…  
+というわけで、ごく一般的なテーマを扱ったサマーソングです。  
+表題曲のNATSUKAGE-夏陰-に続いて聴くことで本曲の普遍性が際立つ。  
 水飛沫をイメージしたキラキラ感を表現するにあたって電子音を用いているのがナナシスらしい。
 
 **10.よいまちカンターレ/shami momo**  
@@ -90,22 +94,30 @@ Neko Hackerから一曲。"ツイッターのテーマソング"なので取り�
 #### その他
 **ひよこのうた/Le☆S☆Ca**  
 <iframe src="https://open.spotify.com/embed/track/0enNeODIEPzhME5K5EO3ui" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
-前述の「ミツバチ」のB面。"「あっち向いてもこっち向いても人生はジェットコースター」なんて文字が書かれたハワイ土産のコースター"がダジャレであることに半年経って気がついた。  
-仙台には駅前パルコが2つあるからね。  
+前述の「ミツバチ」のB面。仙台には駅前パルコが2つあるからね。  
+"「あっち向いてもこっち向いても人生はジェットコースター」なんて文字が書かれたハワイ土産のコースター"がダジャレであることに半年経って気がついた。  
+
+**Break the Blue!!/Run Girls, Run！**  
+<iframe src="https://open.spotify.com/embed/track/0vZCl0o8HpUiUJiBaUs3T2" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
+WUG3の禍根と肝心の歌唱の問題で当初はなんだこれって印象だったが、最近は結構好きになってきた。要するに和解できたということなのかもしれない。  
+オススメはBreak the Blue!!  
+ガーリー・エアフォースの作風やグリペンのポンコツさ加減ととにかくマッチしていた。  
+アサシンズプライドOPのShare the lightも良かった。(映像も可愛い)  今度一通り聴いてみようと思う。
 
 **はじめてのかくめい！/DIALOGUE+**  
 <iframe src="https://open.spotify.com/embed/track/644euUXxSK5joo3QV9wGbB" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
 作詞作曲は田淵智也。  
 上で紹介したミツバチと、同じ女性声優に歌わせてもアプローチの違いでここまで違うと妙に笑えてくる  
-
 <br><br>
 #### 最後に  
 音楽面に留まらず、自分の中ではリステとナナシスの存在が際立った1年でした。  
 
-リステは今まで少数陣営で動いてきただけあって、声優さんや伊藤翼さんら作曲陣の作品に対する理解度の高さが好印象でした。楽曲サイドが会議に参加していただけあって、アニメの方にもそれは反映されていたと思う。  
+リステは今まで少数陣営で動いてきただけあって、声優さんや伊藤翼さんら作曲陣の作品に対する理解度の高さが印象的でした。
+楽曲サイドが会議に参加していただけあって、アニメの方にもそれは反映されていたと思う。  
+アニメ放送直後という重要な局面で、出し惜しみすることなく曲をやれるだけやるという選択が取れるのも、築いてきたものへの絶対の自信が窺える。報われてよかったね；；
   
 ナナシスは4.0,0.7と1年を通して作品の苦しい部分を見せ続けてきたのが、年の瀬という最後の最後に明るい未来を提示してくれたのがとても嬉しかった。  
-数日前に出たEPISODE 5.0 -Fall in Love-の予告トレイラーは繰り返し再生しています。  
+今は数日前に出たEPISODE 5.0 -Fall in Love-の予告トレイラーを繰り返し再生しています。  
 
 <iframe width="320" height="180" src="https://www.youtube.com/embed/TfeKvLtOtLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
