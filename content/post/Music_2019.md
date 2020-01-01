@@ -113,7 +113,7 @@ WUG3と肝心の歌唱の問題で当初はなんだこれって印象だった�
 楽曲サイドが会議に参加していただけあって、アニメの方にもそれは反映されていたと思う。  
 アニメ放送直後のライブという重要な局面で、出し惜しみすることなく曲をやれるだけやるという選択が取れるのも、築いてきたものへの絶対の自信が窺える。報われてよかったね；；
   
-ナナシスは4.0,0.7と1年を通して作品の苦しい部分を見せ続けてきたのが、年の瀬という最後の最後に明るい未来を提示してくれたのがとても嬉しかった。  
+ナナシスは4.0,0.7と1年を通して作品の苦しい部分を見せ続けてきたのが、年の瀬という最後の最後に明るい未来を提示してくれたのがとてつもなく嬉しかった。  
 数日前に出たEPISODE 5.0 -Fall in Love-の予告トレイラーは繰り返し再生しています。  
 
 <iframe width="320" height="180" src="https://www.youtube.com/embed/TfeKvLtOtLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
