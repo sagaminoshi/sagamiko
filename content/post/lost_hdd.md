@@ -7,8 +7,14 @@ description:
 banner: "/banners/Melida_Angel.jpg"
 images: ["/banners/Melida_Angel.jpg"]
 menu: 
-draft:
+draft: True
 ---
+
+
+
+
+
+<!--more-->
 Twitterで度々言及している通り私はts録画したアニメをエンコードして3TBのHDDを積んだNASに保存しているわけですが、そういうことを約2～3年続けてきました。で、その当初使ってたHDDが半年ほど前から容量が無くなっていたので、いい加減新規で購入することにしました。  
 大体年1TBのペースでデータが増え続けているので、8-10TBの製品で手頃なものはないかと選定を続け、最終的にSeagateのIronWolf 8TBモデルを購入することにしました。調べてみると最近はもうSeageteとWDは一長一短といった感じで以前のような歴然とした差がないらしいですね。  
 https://www.amazon.co.jp/gp/product/B07XQ18JJW/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
