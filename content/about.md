@@ -19,7 +19,11 @@ menu: "main"
 <!--more-->
 **アカウント群**  
 Twitter:[@sagami_no](//twitter.com/sagami_no)  
-基本的にここにいます.このあとすぐ！
+基本的にここにいます.
+
+Twitter:[@sagaminoshi](//twitter.com/sagaminoshi)  
+基本的にここにいます.
+よろしくね
 
 Mastodon:[sagamino@mstdn.jp](//mstdn.jp/@sagamino)   
 呟きにならなかったdraftを放流する場所.
