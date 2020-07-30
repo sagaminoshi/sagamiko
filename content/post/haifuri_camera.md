@@ -4,8 +4,8 @@ date: 2019-03-02T23:12:06+09:00
 categories: ["アニメ"]
 tags: ["はいふり"]
 description: "はいふりカメラのフレームをサーバから一括してダウンロードするプログラムを書きました。" 
-banner: "/banners/haifuri_OGimage_20181213.png"
-images: ["/banners/haifuri_OGimage_20181213.png"]
+banner: "/banners/haifuri_OGimage_20181213.jpg"
+images: ["/banners/haifuri_OGimage_20181213.jpg"]
 menu: ""
 draft:
 ---
