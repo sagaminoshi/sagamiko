@@ -16,7 +16,7 @@ draft:
 クオリディア・コードの天河舞姫ちゃん
 
 {{< figure src="/images/icon_history/kanami_eto.png" class="around" width="200" height="200" >}}
-刀使ノ巫女から衛藤可奈美。女の子が戦うアニメ(cf.ストライクウィッチーズ、スタァライト、アサルトリリィ)でも理想的な主人公。本当に格好いい
+刀使ノ巫女から衛藤可奈美。女の子が戦うアニメ(cf.ストライクウィッチーズ、スタァライト、アサルトリリィ)でもトップクラスの主人公力。本当に格好いい
 
 {{< figure src="/images/icon_history/mashiro_02.png" class="around" width="200" height="200" >}}
 蒼の彼方のフォーリズムの有坂真白さん。今でもこのブログや各所で使用している。
