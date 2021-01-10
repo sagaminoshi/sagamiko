@@ -118,7 +118,7 @@ body,
 body {
   color: #565a5f;
   background: #f5f8f9;
-  font: 14px Arial,"open sans", "Helvetica Neue", Helvetica,sans-serif, "Microsoft Yahei";
+  font: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 a {
@@ -962,7 +962,7 @@ a.article-title:hover {
   font-family: "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
 }
 .article-entry blockquote footer cite:before {
-  content: "a?”";
+  content: "â€”";
   padding: 0 0.5em;
 }
 .article-entry .pullquote {
