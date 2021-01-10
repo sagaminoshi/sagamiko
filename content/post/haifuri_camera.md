@@ -10,9 +10,8 @@ menu: ""
 draft:
 ---
 はいふりカメラのフレームをサーバから一括してダウンロードするプログラムを書きました。
+{{<tweet 987207023589642240>}}
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr"> Driveに保存完了した</p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/987207023589642240?ref_src=twsrc%5Etfw">2018年4月20日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 という作業を行ったのが1年ほど前で、この間に新規で追加されたフレーム、そして今後も追加されるであろうフレーム(なんとはいふりは今後ソシャゲと劇場版が控えています！)に対してもhtmlのソースを確認して手作業で保存するのが面倒になったからです。
 
@@ -61,8 +60,8 @@ dのsp_akenohとかsp_mashirohはラーメンの上によくいるやつで、�
 ```
 ソースを見る限り書き忘れらしいんですよね…アニプレックスさん修正お願いします。
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">はいふりカメラの未公開と思しきフレームを見つけたんですけど…<a href="https://t.co/rVr4fXs9DM">https://t.co/rVr4fXs9DM</a> <a href="https://t.co/uC676jg0zS">pic.twitter.com/uC676jg0zS</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/974632713385689091?ref_src=twsrc%5Etfw">2018年3月16日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{<tweet 974632713385689091>}}
+
 正直これがsagaminoのTwitter歴で一番の実績のような気がしている
 <br/>
 <br/>
