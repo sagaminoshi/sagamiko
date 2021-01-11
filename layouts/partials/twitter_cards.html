@@ -1,6 +1,6 @@
 {{- with $.Params.banner -}}
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ $.Params.banner }}"/>
+<meta name="twitter:image" content="{{ $.Params.banner | absURL}}"/>
 {{ else -}}
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:image" content="{{ .Site.Params.avatar | absURL }}"/>
