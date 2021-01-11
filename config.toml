@@ -29,7 +29,7 @@ themesDir = "themes"
     # will fallback to the avatar.
     gravatar = ""
     logo = "/images/logo_01.png"
-	images = ["/images/logo_01.png"]
+	images = ["/images/ajisai_mashiro.jpg"]
     og_image = ""
     disable_mathjax = false # set to true to disable MathJax
 
