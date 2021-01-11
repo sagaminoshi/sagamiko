@@ -2,7 +2,7 @@
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 <head>
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
-    {{ .Hugo.Generator }}
+    {{ hugo.Generator }}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
@@ -11,19 +11,14 @@
     {{ else }}
       <meta name="description" content="{{ .Site.Params.site_description }}">
     {{ end }}
-    {{ with .RSSLink }}
-      <link href="{{ . }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
-      <link href="{{ . }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+    {{ with .OutputFormats.Get "RSS" }}
+      <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+      <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
     {{ end }}
     <link rel="canonical" href="{{ .Permalink }}"/>
     <link rel="icon" href="{{ "favicon.ico" | absURL }}">
     <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | absURL }}"/>
     <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
-
-<!-- all.cssと下の1行はsagaminoが追加したやつ -->
-    <link rel="stylesheet" href="{{ "css/all.css" | absURL }}">
-<!--                                  -->
-
     <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}">
     <link rel="stylesheet" href="{{ "css/monokai.css" | absURL }}">
     <link rel="stylesheet" href="{{ "fancybox/jquery.fancybox.css" | absURL }}">
@@ -48,6 +43,15 @@
 
     <!-- needs to be loaded first for following scripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+    
+<!-- sagaminoが追加したやつ            -->
+    <link rel="stylesheet" href="{{ "css/all.css" | absURL }}">
+<!-- 下2行：google analytics:"https://maku77.github.io/hugo/settings/google-analytics.html" -->
+    {{- partial "analytics" . -}}
+    <meta charset="UTF-8">
+<!--                                  -->
+
 </head>
 <body>
 <div class="container">
