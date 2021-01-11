@@ -5,7 +5,7 @@ categories: ["Other"]
 tags: []
 description:
 banner: "/banners/icon_history.jpg"
-images: ["/banners/icon_histrory.jpg"]
+images: ["/banners/icon_history.jpg"]
 menu: 
 draft:
 ---

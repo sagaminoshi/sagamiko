@@ -30,7 +30,7 @@ themesDir = "themes"
     gravatar = ""
     logo = "/images/logo_01.png"
 	images = ["/images/logo_01.png"]
-    og_image = "/images/ajisai_mashiro.jpg"
+    og_image = ""
     disable_mathjax = false # set to true to disable MathJax
 
     # define which types of pages should be shown. By default the type with the most regular pages
