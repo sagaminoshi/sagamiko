@@ -1,6 +1,6 @@
 ---
 title: "Tokyo 7th シスターズ サブスク解禁に寄せて"
-date: 2019-11-22T21:08:25+09:00
+date: 2019-11-22T00:00:00+09:00
 categories: ["アニメ"]
 tags: ["t7s"]
 description: "/banners/t7s_01.jpg"

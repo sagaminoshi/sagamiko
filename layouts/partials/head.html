@@ -20,8 +20,9 @@
     <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | absURL }}"/>
     <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
 
-<!-- all.cssと下の1行はsagaminoが追加したやつ -->
+<!-- all.cssと下の2行はsagaminoが追加したやつ,2行目はtwitter_cards対策: "https://unyacat.net/2018/12/11/hugo-twitter-card/" -->
     <link rel="stylesheet" href="{{ "css/all.css" | absURL }}">
+    {{ partial "twitter_cards" . }}    
 <!--                                  -->
 
     <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}">

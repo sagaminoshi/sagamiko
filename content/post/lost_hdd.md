@@ -1,6 +1,6 @@
 ---
 title: "HDDのデータ消失した"
-date: 2020-02-27T08:10:00+09:00
+date: 2020-02-27T00:00:00+09:00
 categories: ["Diary"]
 tags: []
 description:
