@@ -114,3 +114,8 @@ themesDir = "themes"
     categories = true
     tags = true
     tag_cloud = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
