@@ -118,7 +118,7 @@ body,
 body {
   color: #565a5f;
   background: #f5f8f9;
-  font: 14px Arial,"open sans", "Helvetica Neue", Helvetica,sans-serif, "Microsoft Yahei";
+  font: 16px "Meiryo", "MS PGothic", "游明朝", "MS PMincho", sans-serif, serif, "open sans", "Helvetica Neue", Helvetica, Arial;
   -webkit-text-size-adjust: 100%;
 }
 a {
@@ -2188,3 +2188,5 @@ ol.toc {
 .article-category a {
   text-transform: none;
 }
+
+/*121行目でフォントをいじれる　*/
