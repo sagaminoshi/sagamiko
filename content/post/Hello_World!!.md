@@ -7,7 +7,8 @@ description: ""
 banner: "/banners/Arisaka.Mashiro.full.1809833.jpg"
 images: ["/banners/Arisaka.Mashiro.full.1809833.jpg"]
 menu: ""
-draft: false
+draft:
 ---
 うおおおおおおおおおホームページ立ち上げた！
 {{<tweet 1097844925763182593>}}
+<!--more-->
