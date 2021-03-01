@@ -1,4 +1,5 @@
 [build]
+publish ="public"
 command = "hugo --buildFuture --gc --minify"
 
 [context.production.environment]
