@@ -7,7 +7,7 @@ description: ""
 banner: "/banners/t7s_movie.jpg"
 images: ["/banners/t7s_movie.jpg"]
 menu: ""
-draft: false
+draft:
 ---
 2月26日、『Tokyo 7th シスターズ -僕らは青空になる-』が公開されました。観に行った。  
 {{<tweet 1365108680471977986>}}
@@ -74,7 +74,7 @@ draft: false
 
 そう考えると、普遍性な前向きさを備えた曲である主題歌『Departures -あしたの歌-』はこのプロセスの集大成とでも捉えられるような気がします。(そしてこの延長に、劇中2043年の曲SEASON OF LOVEの『Fall in Love』がある。EPISODE5.0はアイドルをやっている普通の女の子の話であることに意味がある。)  
 
-余談だけど『Shooting Sky』が世に放たれた今、セブンスシスターズについても同じようなことが言えると思う。  
+『Shooting Sky』が世に放たれた今、セブンスシスターズについても同じようなことが言えると思う。  
 </br>
 
 **最後に**  

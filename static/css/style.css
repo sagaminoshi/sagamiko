@@ -118,7 +118,7 @@ body,
 body {
   color: #565a5f;
   background: #f5f8f9;
-  font: 16px "Meiryo", "MS PGothic", "游明朝", "MS PMincho", sans-serif, serif, "open sans", "Helvetica Neue", Helvetica, Arial;
+  font: 16px  Helvetica,"Sawarabi Gothic",Meiryo,"メイリオ","Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN",YuGothic,"游ゴシック",Arial,sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 a {
@@ -2178,10 +2178,12 @@ ol.toc {
   text-transform: capitalize;
 }
 
+/*
+tagの"t7s"をこの通りに表示するため
 .category-list-link[href*="t7s"]{
   text-transform: none;
 }
-
+*/
 
 
 /* /layouts/partials/article_header.html */

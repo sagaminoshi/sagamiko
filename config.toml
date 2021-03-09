@@ -34,7 +34,7 @@ themesDir = "themes"
     disable_mathjax = false # set to true to disable MathJax
 
     # define which types of pages should be shown. By default the type with the most regular pages
-    mainSections = ["post"]
+    mainSections = ["post","diary"]
 
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
@@ -59,6 +59,16 @@ themesDir = "themes"
 #     before = false
 #     label  = "Tags"
 #     link   = "tags/"
+
+[[params.menu]]
+    before = false
+    label  = "Posts"
+    link   = "post/"
+
+[[params.menu]]
+    before = false
+    label  = "Diaries"
+    link   = "diary/"
 
 [[params.menu]]
     before = false
