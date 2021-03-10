@@ -14,7 +14,7 @@ themesDir = "themes"
 
 
 [permalinks]
-    post = "/article/:filename"
+    post = "/:filename"
 
 
 [params]
@@ -62,8 +62,8 @@ themesDir = "themes"
 
 [[params.menu]]
     before = false
-    label  = "Posts"
-    link   = "post/"
+    label  = "Articles"
+    link   = "article/"
 
 [[params.menu]]
     before = false
