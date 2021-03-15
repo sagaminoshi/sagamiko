@@ -78,13 +78,13 @@ draft:
 <strong id="koias">恋する小惑星</strong>  
 デフォルメ調のカットがきらら作品にしては少なく、写実的な画面を追求していたのが印象的だった。その上で部屋の中での遠近や、フェンス越しの青空、ホームレス排除ベンチといった身の回りの構造物でキャラクターの心情などを表現するのがとても巧かった。  
 
-{{<figure src="/images/20200306_2300_恋する小惑星　09.「本当の気持ち」.mp4 2021_03_11 3_37_19.jpg" class="around" width="480" alt="オープニングの冒頭。天文と地学という興味の違いがカバンの置かれた位置に表れている">}}
-{{<figure src="/images/20200306_2300_恋する小惑星　09.「本当の気持ち」.mp4 2021_03_11 2_19_20.jpg" class="around" width="480" alt="9話Aパート、あおの転校問題が浮上する回。二人と青空の間をフェンスが遮る">}}
-{{<figure src="/images/20200306_2300_恋する小惑星　09.「本当の気持ち」.mp4 2021_03_11 3_17_05.jpg" class="around" width="480" alt="同9話Bパート">}}
+{{<figure src="/images/20200306_2300_恋する小惑星　09.「本当の気持ち」.mp4 2021_03_11 3_37_19.jpg" class="around" width="640" alt="オープニングの冒頭。天文と地学という興味の違いがカバンの置かれた位置に表れている">}}
+{{<figure src="/images/20200306_2300_恋する小惑星　09.「本当の気持ち」.mp4 2021_03_11 2_19_20.jpg" class="around" width="640" alt="9話Aパート、あおの転校問題が浮上する回。二人と青空の間をフェンスが遮る">}}
+{{<figure src="/images/20200306_2300_恋する小惑星　09.「本当の気持ち」.mp4 2021_03_11 3_17_05.jpg" class="around" width="640" alt="同9話Bパート">}}
 ホームレス排除ベンチについては、こちらのはばキツさんのブログが詳しい。
 <p><iframe src="https://hatenablog-parts.com/embed?url=https://foxnumber6.hatenablog.com/entry/2020/03/16/031407" title="The Phantom of the Pocket Money Vol.1 - KnowRun" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://knowrun.hatenablog.com/entry/2021/01/31/190000">foxnumber6.hatenablog.com</a></cite></p>
 
-{{<figure src="/images/20200306_2300_恋する小惑星　09.「本当の気持ち」.mp4 2021_03_11 3_40_17.jpg" class="around" width="480" alt="これは個人的に好きなキャプ。遠近での心情表現はこの作品において基本的">}}
+{{<figure src="/images/20200306_2300_恋する小惑星　09.「本当の気持ち」.mp4 2021_03_11 3_40_17.jpg" class="around" width="640" alt="これは個人的に好きなキャプ。遠近での心情表現はこの作品において基本的">}}
 画面の写実志向に加えて、ほとんどのカットでカメラが固定されているから、それこそ大掛かりな設備がない学生でも撮れそうな映像になっている。この『恋する小惑星』という作品は、人とこの世界(天文,地球etc…)、そして人と人の関わりを、高校の部活動を舞台に「等身大」の目線で描いているわけだから、このような映像に仕上げることには必然性があるわけです。  
 
 俺が長年思い描いていたきららアニメの理想的な映像化がこうして実際にお出しされたから嬉しかったな。優等生すぎるという感想はもっともなんだけど、その「優等生的なきららアニメ」が実際に提出されたことには意味があるし、後発のアニメ化タイトルにとっても一つの指標になるんじゃないかな。  
