@@ -124,8 +124,14 @@ themesDir = "themes"
     categories = true
     tags = true
     tag_cloud = true
+    archives = true
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"

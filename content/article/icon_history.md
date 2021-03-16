@@ -3,6 +3,7 @@ title: "歴代アイコン"
 date: 2021-01-10T00:00:00+09:00
 categories: ["Other"]
 tags: ["Twitter"]
+archives : 2021
 description:
 banner: "/banners/icon_history.jpg"
 images: ["/banners/icon_history.jpg"]

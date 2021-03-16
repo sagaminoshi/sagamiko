@@ -3,6 +3,7 @@ title: "Diary 2019"
 date: 2019-11-13T08:10:00+09:00
 categories: ["Diary"]
 tags: []
+archives : 2019
 description:
 banner: "/banners/Melida_Angel.jpg"
 images: ["/banners/Melida_Angel.jpg"]

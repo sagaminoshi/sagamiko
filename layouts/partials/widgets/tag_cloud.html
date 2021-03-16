@@ -8,7 +8,7 @@
     <div class="widget tagcloud">
         {{ range $name, $items := .Site.Taxonomies.tags }}
         {{ $url := printf "%s/%s" "tags" ($name | urlize | lower)}}
-        <a class="category-list-link" href="{{ $url | absURL }}" style="font-size: 12px;">{{ $name }}</a>
+        <a class="category-list-link" href="{{ $url | absURL }}">{{ $name }}</a>
         {{ end }}
     </div>
 </div>

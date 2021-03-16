@@ -37,3 +37,6 @@
 
 [widgets.tags]
     title = "Tags"
+
+[widgets.archives]
+    title = "Archives"

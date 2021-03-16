@@ -3,6 +3,7 @@ title: "脱法はいふりカメラ"
 date: 2019-03-02T23:12:00+09:00
 categories: ["アニメ"]
 tags: ["はいふり"]
+archives : 2019
 description: "はいふりカメラのフレームをサーバから一括してダウンロードするプログラムを書きました。" 
 banner: "/banners/haifuri_OGimage_20181213.jpg"
 images: ["/banners/haifuri_OGimage_20181213.jpg"]

@@ -3,6 +3,7 @@ title: "2019楽曲10選"
 date: 2019-12-31T23:00:00+09:00
 categories: ["Other"]
 tags: []
+archives : 2019
 description: ""
 banner: "/banners/music_2019.jpg"
 images: ["/banners/music_2019.jpg"]

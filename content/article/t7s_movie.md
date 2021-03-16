@@ -3,6 +3,7 @@ title: "Tokyo 7th シスターズ -僕らは青空になる-"
 date: 2021-03-16T00:00:00+09:00
 categories: ["アニメ"]
 tags: ["ナナシス"]
+archives : 2021
 description: ""
 banner: "/banners/t7s_movie.jpg"
 images: ["/banners/t7s_movie.jpg"]
