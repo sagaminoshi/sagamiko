@@ -4,12 +4,9 @@ date: "2019-02-18T18:00:00+09:00"
 categories: ["About"]
 banner: ""
 description: "さがみの/sagaminoの自己紹介"
-banner: "/banners/Anihonetwallpaper15987.jpg"
-images: ["/banners/Anihonetwallpaper15987.jpg"]
 disable_comments: true
 menu: "main"
 ---
-
 #### さがみの/sagamino
 ---  
 **主な活動場所**:Twitter  
@@ -40,7 +37,7 @@ donationは常に受け付けています.
 
 ---
 **Animation**  
-今期アニメを中心に観ています.ここ2,3年は各クール15-20作品で推移しています.  
+今期アニメを中心に観ています.ここ3,4年は各クール15-20作品で推移しています.  
 詳しいことはAnnictを見て.  
 
 好きな作品  
