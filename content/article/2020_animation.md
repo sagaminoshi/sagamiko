@@ -29,6 +29,7 @@ draft:
             <li><a href="#GREAT PRETENDER">GREAT PRETENDER</a>
             <li><a href="#appareranman">天晴爛漫！</a>
             <li><a href="#maohgakuin">魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～</a>
+            <li><a href="#hanzawa">半沢直樹</a>
             <li><a href="#balance_unlimited">富豪刑事 Balance:UNLIMITED</a>
             <li><a href="#kanokari">彼女、お借りします</a>
             <li><a href="#strike">ストライクウィッチーズ ROAD to BERLIN</a>
@@ -135,6 +136,11 @@ draft:
 <strong id="maohgakuin">魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～</strong>  
 アニメってこんなに自由でいいんだ……と心の底から思わせてくれました。本当にありがとうございます。  
 「サーシャちゃんとミーシャちゃん一本で行く」「アノスファンユニオン言えるかな？」といったオタクの戯言が結果的にストーリーの核心を突いていたのも面白かった  
+<br />
+
+<strong id="hanzawa">半沢直樹</strong>  
+楽天のライブドア買収発表会見にスティーブ・ジョブズ風のおっさんがビデオメッセージで登場したときの瞬間最大風速は今年一だったんじゃないかな。
+最終回のワチャワチャ感も好きだし最初から最後まで楽しかった。  
 <br />
 
 <strong id="balance_unlimited">富豪刑事 Balance:UNLIMITED</strong><br />
