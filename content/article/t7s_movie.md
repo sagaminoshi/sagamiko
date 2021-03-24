@@ -99,7 +99,9 @@ EPISODEシリーズに限らず様々な媒体を通してナナシスと茂木�
 そのうちBlu-rayが発売されるだろうけど、当時このコンテンツは何を伝えようとしていたのかを、端的に思い出すための足掛かりとなるようなフィルムになると確信している。  
 あの長いテキストを読み返すのも骨が折れるしね。  
 
-<!--サブスクが解禁されたら主題歌のリンクをここに貼る -->
+
+『Departures -あしたの歌-』はいい曲
+<iframe src="https://open.spotify.com/embed/track/7GBEjUo1WLmVQKfUQK8gCd" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 **追記**  
