@@ -8,7 +8,7 @@ description: ""
 banner: ""
 images: [""]
 menu: ""
-draft:
+draft: true
 ---
 2021年春クールの感想記事。並びは月曜日からの放送順
 <!--
