@@ -1,7 +1,7 @@
 ---
 title: "ウインズへようこそ 2021"
 date: 2021-05-09T00:00:00+09:00
-categories: ["アニメ"]
+categories: ["競馬"]
 tags: []
 archives : 2021
 description: ""
