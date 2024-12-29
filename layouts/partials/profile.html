@@ -34,10 +34,15 @@
     <div class="profile-block social-links">
       <table>
         <tr>
+          <td><a href="//twitter.com/sagami_no" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></td>
+          <td><a href="//mstdn.jp/@sagamino" target="_blank" title="Mastodon"><i class="fab fa-mastodon"></i></a></td>
+          <td><a href="//annict.jp/@sagamino" target="_blank" title="Annict"><i class="fab fa-autoprefixer"></i></a></td>
+          <!--
           {{ partial "social" . }}
           {{ with .OutputFormats.Get "rss" -}}
             {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
           {{ end }}
+           -->
         </tr>
       </table>
     </div>

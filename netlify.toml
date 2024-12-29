@@ -2,6 +2,6 @@
 command = "hugo --buildFuture --gc"
 
 [context.production.environment]
-  HUGO_VERSION = "0.110.0"
+  HUGO_VERSION = "0.140.1"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.110.0"
+  HUGO_VERSION = "0.140.1"
