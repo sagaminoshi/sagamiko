@@ -16,7 +16,7 @@ draft:
 結論から述べるとラインナップは以下の通り。並びはリリース順です。  
 あと上のジャケット一覧の<a href="../../banners/music_2019.png">png版</a> も貼っておく。7MBあるから注意してね。
 <!--more-->
-{{<tweet 1211287550309982209>}}
+{{<tweet user="sagami_no" id="1211287550309982209" >}}
 <!--
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">10選2019<br>Wornder Caravan!/水瀬<br>あのね/伊津村紫<br>ハッピータイフーン/KiRaRe<br>O-Ku-Ri-Mo-No-Sunday!/久川凪,楓<br>Home Sweet Home/Neko Hacker<br>ファーストプロット/麻倉<br>We can go now!/illumination STARS<br>ミツバチ/Le☆S☆Ca<br>夏のビードロ☆シンフォニー/777☆SISTERS<br>よいまちカンターレ/shami momo</p>&mdash; さがみ (@sagami_no)
 -->

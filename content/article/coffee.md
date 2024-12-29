@@ -35,7 +35,7 @@ draft:
 **フレンチプレス**  
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=sagamino-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07BX75ZR3&linkId=b528c3b3a024cda52c03954cb8527125"></iframe>
 
-{{<tweet 1331151597196382208>}}
+{{<tweet user="sagami_no" id="1331151597196382208" >}}
 製品名見てくれれば分かるようにフレンチプレスとティープレスを兼ねている。紅茶の茶葉を貰ったのだがティープレスを持っていなかったので、購入した次第。  
 ずっとペーパードリップ一本でやってきたので少し趣向を変えて他の抽出法にも手を出してみようという意味合いもあった。ペーパードリップに比べてフィルターが粗いので抽出されたコーヒーは豆の油分が多めになる。そういうのを楽しみたい気分の時に使ってます。
 <br /><br /><br />
