@@ -35,7 +35,9 @@
       <table>
         <tr>
           {{ partial "social" . }}
-<!--          <td><a href="{{ .Site.RSSLink }}" target="_blank" title="RSS"><i class="fa fa-rss"></i></a></td>  -->
+          {{ with .OutputFormats.Get "rss" -}}
+            {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+          {{ end }}
         </tr>
       </table>
     </div>
