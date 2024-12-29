@@ -6,12 +6,13 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "G-2RM3ZTB734"
 # Define the number of posts per page
-paginate = 5
 footnotereturnlinkcontents = "?"
 theme = "icarus"
 # Comment the themesDir option if you use this theme in production
 themesDir = "themes"
 
+[pagination]
+    pagerSize = 5
 
 [permalinks]
     post = "/:filename"
