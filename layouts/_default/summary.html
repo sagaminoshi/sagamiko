@@ -2,9 +2,14 @@
     <div class="article-inner">
         {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
         <a href="{{ .Permalink }}" itemprop="url">
-            <img src="{{ .Params.banner | absURL }}" class="article-banner">
-        {{ end }}
+            {{ $banner := .Params.banner }}
+            {{ $bannerWebP := replaceRE `\.(jpg|jpeg|png)$` ".webp" $banner }}
+            <picture>
+                <source srcset="{{ $bannerWebP | absURL }}" type="image/webp">
+                <img src="{{ $banner | absURL }}" class="article-banner" loading="lazy">
+            </picture>
         </a>
+        {{ end }}
 
         {{ partial "article_header" . }}
         <div class="article-entry" itemprop="articleBody">
