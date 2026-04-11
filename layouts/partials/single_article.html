@@ -1,7 +1,7 @@
 <article id="page-undefined" class="article article-type-page" itemscope="" itemprop="blogPost">
     <div class="article-inner">
         {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
-            {{ $banner := .Params.banner }}
+            {{ $banner := .Params.banner | strings.TrimPrefix "/" }}
             {{ $bannerWebP := replaceRE `\.(jpg|jpeg|png)$` ".webp" $banner }}
             <picture>
                 <source srcset="{{ $bannerWebP | absURL }}" type="image/webp">

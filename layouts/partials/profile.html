@@ -4,11 +4,11 @@
       {{ with .Site.Params.gravatar }}
       <img id="avatar" src="https://www.gravatar.com/avatar/{{ . | md5 }}?s=100&d=identicon"/>
       {{ else }}
-      <img id="avatar" src="{{ .Site.Params.avatar | absURL }}">
+      <img id="avatar" src="{{ .Site.Params.avatar | strings.TrimPrefix "/" | absURL }}">
       {{ end }}
       {{ with .Site.Params.author}}<h2 id="name">{{ . }}</h2>{{ end }}
       {{ with .Site.Params.bio }}<h3 id="title">{{ . }}</h3>{{ end }}
-      {{ with .Site.Params.location }}<span id="location"><i class="fa fa-map-marker"></i>{{ . }}</span>{{ end }}
+      {{ with .Site.Params.location }}<span id="location">{{ partial "icon.html" "map-marker" }}{{ . }}</span>{{ end }}
       {{ with .Site.Params.profile.follow_button }}
           <a id="follow" href="{{ . }}">
               {{with $.Site.Data.l10n.profile.follow_button}}{{.}}{{end}}
@@ -34,9 +34,10 @@
     <div class="profile-block social-links">
       <table>
         <tr>
-          <td><a href="//twitter.com/sagami_no" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></td>
-          <td><a href="//mstdn.jp/@sagamino" target="_blank" title="Mastodon"><i class="fab fa-mastodon"></i></a></td>
-          <td><a href="//annict.jp/@sagamino" target="_blank" title="Annict"><i class="fab fa-autoprefixer"></i></a></td>
+          <td><a href="//twitter.com/sagami_no" target="_blank" title="Twitter">{{ partial "icon.html" "twitter" }}</a></td>
+          <td><a href="//mstdn.jp/@sagamino" target="_blank" title="Mastodon">{{ partial "icon.html" "mastodon" }}</a></td>
+          <td><a href="//github.com/sagaminoshi" target="_blank" title="GitHub">{{ partial "icon.html" "github" }}</a></td>
+          <td><a href="//annict.jp/@sagamino" target="_blank" title="Annict">{{ partial "icon.html" "annict" }}</a></td>
           <!--
           {{ partial "social" . }}
           {{ with .OutputFormats.Get "rss" -}}
@@ -47,5 +48,4 @@
       </table>
     </div>
   </div>
-<a class="twitter-timeline" data-lang="en" data-height="600" href="https://twitter.com/sagami_no?ref_src=twsrc%5Etfw">Tweets by sagami_no</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </aside>

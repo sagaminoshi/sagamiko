@@ -4,7 +4,7 @@
         <div class="archive-article-thumbnail">
             {{ if isset .Params "banner" }}
             <a href="{{ .Permalink }}" class="thumbnail">
-                <span style="background-image:url({{ .Params.banner | absURL }})" alt="{{ .Title }}" class="thumbnail-image"></span>
+                <span style="background-image:url({{ .Params.banner | strings.TrimPrefix "/" | absURL }})" alt="{{ .Title }}" class="thumbnail-image"></span>
             </a>
             {{ else }}
             <a href="{{ .Permalink }}" class="thumbnail">
@@ -17,7 +17,7 @@
             <a class="archive-article-title" href="{{ .Permalink }}">{{ .Title }}</a>
             </h1>
             <div class="archive-article-date">
-                <i class="fa fa-calendar"></i>
+                {{ partial "icon.html" "calendar" }}
                 <time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.date_format }}</time>
             </div>
         </header>
@@ -28,7 +28,7 @@
     <div class="article-inner">
         {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
         <a href="{{ .Permalink }}" itemprop="url">
-            <img src="{{ .Params.banner | absURL }}" class="article-banner">
+            <img src="{{ .Params.banner | strings.TrimPrefix "/" | absURL }}" class="article-banner">
         {{ end }}
         </a>
 

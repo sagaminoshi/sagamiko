@@ -2,7 +2,7 @@
     <div class="article-inner">
         {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
         <a href="{{ .Permalink }}" itemprop="url">
-            {{ $banner := .Params.banner }}
+            {{ $banner := .Params.banner | strings.TrimPrefix "/" }}
             {{ $bannerWebP := replaceRE `\.(jpg|jpeg|png)$` ".webp" $banner }}
             <picture>
                 <source srcset="{{ $bannerWebP | absURL }}" type="image/webp">
