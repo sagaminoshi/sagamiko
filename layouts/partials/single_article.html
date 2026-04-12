@@ -5,7 +5,7 @@
             {{ $bannerWebP := replaceRE `\.(jpg|jpeg|png)$` ".webp" $banner }}
             <picture>
                 <source srcset="{{ $bannerWebP | absURL }}" type="image/webp">
-                <img src="{{ $banner | absURL }}" class="article-banner" loading="lazy">
+                <img src="{{ $banner | absURL }}" class="article-banner" loading="lazy" alt="{{ .Title }}">
             </picture>
         {{ end }}
 

@@ -32,7 +32,7 @@ themesDir = "themes"
     logo = "/images/logo_01.png"
 	images = ["/images/og_image.jpg"]
     og_image = ""
-    disable_mathjax = false # set to true to disable MathJax
+    disable_mathjax = true # set to true to disable MathJax
 
     # define which types of pages should be shown. By default the type with the most regular pages
     mainSections = ["article","diary"]

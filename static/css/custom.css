@@ -94,3 +94,18 @@ a:hover {
 #profile .inner .base-info #location {
   color: #6d6d6d;
 }
+
+/* 前後記事ナビ: #999 (2.85:1) → #595959 (5.0:1) */
+.article-nav-link-wrap {
+  color: #595959;
+}
+
+/* タイムライン記事メタ: #898d92 (3.2:1) → #6d6d6d (4.9:1) */
+.timeline-row .content .article-meta {
+  color: #6d6d6d;
+}
+
+/* フッターリンク: 色のみの識別を解消するため下線を追加 */
+#footer a {
+  text-decoration: underline;
+}

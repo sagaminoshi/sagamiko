@@ -8,7 +8,7 @@
 {{ end }}
 <script>hljs.initHighlightingOnLoad();</script>
 
-{{ if not .Site.Params.disable_mathjax }}
+{{ if or (not .Site.Params.disable_mathjax) .Params.mathjax }}
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   tex2jax: {
