@@ -1,0 +1,96 @@
+/* ================================================================
+   custom.css — プロジェクト固有のスタイル
+   style.css（テーマベース）を上書き・拡張する
+   ================================================================ */
+
+/* ----------------------------------------------------------------
+   レイアウト
+   ---------------------------------------------------------------- */
+.category-list-link {
+  text-transform: capitalize;
+}
+
+.article-category a {
+  text-transform: none;
+}
+
+/* ----------------------------------------------------------------
+   SVGアイコン
+   ---------------------------------------------------------------- */
+.icon {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  vertical-align: -0.125em;
+}
+
+.article-meta > div .icon {
+  margin-right: 3px;
+}
+
+#toTop .icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 30px;
+  width: 30px;
+}
+
+@media screen and (min-width: 560px) and (max-width: 799px) {
+  #toTop .icon { height: 26px; width: 26px; }
+}
+@media screen and (max-width: 559px) {
+  #toTop .icon { height: 24px; width: 24px; }
+}
+
+#profile .inner .base-info #location .icon {
+  margin-right: 5px;
+  height: 16px;
+  width: 16px;
+  vertical-align: -0.3em;
+}
+
+/* ----------------------------------------------------------------
+   アクセシビリティ: コントラスト改善 (WCAG AA 4.5:1以上)
+   ---------------------------------------------------------------- */
+
+/* リンク: #38b7ea (2.3:1) → #0071b3 (5.3:1) */
+a,
+a:visited {
+  color: #0071b3;
+}
+a:hover {
+  color: #38b7ea;
+}
+#footer a {
+  color: #0071b3;
+}
+.category-list-link,
+.category-list-link:visited,
+.article-category-link,
+.article-category-link:visited {
+  color: #0071b3;
+}
+
+/* グレーテキスト: #999 (2.6〜2.9:1) → #6d6d6d (4.9:1) */
+.article-more-link a,
+.article-more-link a:visited {
+  color: #595959;
+}
+#page-nav a,
+#page-nav a:visited {
+  color: #6d6d6d;
+}
+.article-footer a,
+.article-footer a:visited {
+  color: #6d6d6d;
+}
+.category-list-count,
+.tag-list-count,
+.archive-list-count {
+  color: #6d6d6d;
+}
+#profile .inner .base-info #location {
+  color: #6d6d6d;
+}

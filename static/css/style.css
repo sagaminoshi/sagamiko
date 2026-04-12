@@ -484,17 +484,11 @@ code {
 #sub-nav #profile-nav #profile-anchor:after {
   clear: both;
 }
-#sub-nav #profile-nav .avatar,
-#sub-nav #profile-nav .fa {
-  float: left;
-}
 #sub-nav #profile-nav .avatar {
+  float: left;
   width: 40px;
   height: 40px;
   margin-right: 8px;
-}
-#sub-nav #profile-nav .fa {
-  line-height: 40px;
 }
 @media screen and (max-width: 559px) {
   #search-form-wrap {
@@ -853,17 +847,11 @@ a.article-title:hover {
   float: left;
   margin-right: 10px;
 }
-.article-meta > div .icon {
-  margin-right: 3px;
-}
 .article-meta a {
   color: #565a5f;
 }
 .article-meta a:hover {
   color: #38b7ea;
-}
-.article-category .fa-angle-right {
-  margin: 0 5px;
 }
 .article-tag .tag-link:before {
   content: "#";
@@ -1059,9 +1047,6 @@ a.article-title:hover {
   float: right;
   cursor: pointer;
   margin-left: 20px;
-}
-.article-share-link .fa-share {
-  margin-right: 5px;
 }
 #article-nav {
   position: relative;
@@ -1359,12 +1344,6 @@ ol.toc {
     padding: 0 15px;
     font-size: 1.2em;
   }
-}
-.archive-year-wrap .fa,
-.archive-category-wrap .fa,
-.archive-tag-wrap .fa,
-.layout-title .fa {
-  margin-right: 3px;
 }
 .archive-year-wrap .archive-year,
 .archive-category-wrap .archive-year,
@@ -2176,87 +2155,3 @@ ol.toc {
   text-transform: capitalize;
 }
 
-/* /layouts/partials/widgets/categories.html */
-/* /layouts/partials/widgets/tags.html */
-.category-list-link {
-  text-transform: capitalize;
-}
-
-/*
-tagの"t7s"をこの通りに表示するため
-.category-list-link[href*="t7s"]{
-  text-transform: none;
-}
-*/
-
-
-/* /layouts/partials/article_header.html */
-.article-category a {
-  text-transform: none;
-}
-
-/*121行目でフォントをいじれる　*/
-
-/* ===== SVGアイコン共通スタイル ===== */
-.icon {
-  display: inline-block;
-  height: 1em;
-  width: 1em;
-  vertical-align: -0.125em;
-}
-#toTop .icon {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  height: 30px;
-  width: 30px;
-}
-#location .icon {
-  margin-right: 3px;
-  vertical-align: -0.2em;
-}
-
-/* ===== アクセシビリティ: コントラスト改善 (WCAG AA 4.5:1以上) ===== */
-
-/* #38b7ea (コントラスト比2.3:1) → #0071b3 (5.3:1) */
-a,
-a:visited {
-  color: #0071b3;
-}
-a:hover {
-  color: #38b7ea;
-}
-#footer a {
-  color: #0071b3;
-}
-.category-list-link,
-.category-list-link:visited {
-  color: #0071b3;
-}
-.article-category-link,
-.article-category-link:visited {
-  color: #0071b3;
-}
-
-/* #999 / #9a9ea3 (コントラスト比2.6〜2.9:1) → #6d6d6d (4.9:1) */
-.article-more-link a,
-.article-more-link a:visited {
-  color: #595959;
-}
-#page-nav a,
-#page-nav a:visited {
-  color: #6d6d6d;
-}
-.article-footer a,
-.article-footer a:visited {
-  color: #6d6d6d;
-}
-.category-list-count,
-.tag-list-count,
-.archive-list-count {
-  color: #6d6d6d;
-}
-#profile .inner .base-info #location {
-  color: #6d6d6d;
-}

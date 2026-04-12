@@ -1,3 +1,29 @@
+{{ if and (isset .Params "short_summary") (not (eq .Params.short_summary "")) }}
+<article class="archive-article archive-type-post">
+    <div class="archive-article-inner">
+        <div class="archive-article-thumbnail">
+            {{ if isset .Params "banner" }}
+            <a href="{{ .Permalink }}" class="thumbnail">
+                <span style="background-image:url({{ .Params.banner | strings.TrimPrefix "/" | absURL }})" alt="{{ .Title }}" class="thumbnail-image"></span>
+            </a>
+            {{ else }}
+            <a href="{{ .Permalink }}" class="thumbnail">
+                <span class="thumbnail-image thumbnail-none"></span>
+            </a>
+            {{ end }}
+        </div>
+        <header class="archive-article-header">
+            <h1 itemprop="name">
+            <a class="archive-article-title" href="{{ .Permalink }}">{{ .Title }}</a>
+            </h1>
+            <div class="archive-article-date">
+                {{ partial "icon.html" "calendar" }}
+                <time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.date_format }}</time>
+            </div>
+        </header>
+    </div>
+</article>
+{{ else }}
 <article class="archive-article archive-type-post">
     <div class="article-inner">
         {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
@@ -25,3 +51,4 @@
         {{ partial "article_footer" . }}
     </div>
 </article>
+{{ end }}
