@@ -15,7 +15,7 @@ themesDir = "themes"
     pagerSize = 5
 
 [permalinks]
-    post = "/:filename"
+    post = "/:contentbasename"
 
 
 [params]
