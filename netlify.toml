@@ -3,5 +3,7 @@ command = "hugo --minify --buildFuture --gc"
 
 [context.production.environment]
   HUGO_VERSION = "0.160.1"
+  NODE_VERSION = "24"
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.160.1"
+  NODE_VERSION = "24"
