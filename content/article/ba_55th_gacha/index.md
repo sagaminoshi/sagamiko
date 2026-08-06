@@ -1,5 +1,5 @@
 ---
-title: "ブルアカ5.5周年ガチャ報告"
+title: "ブルアカ 5.5周年ガチャ報告"
 date: 2026-08-06T2:00:00+09:00
 categories: []
 tags: []
@@ -30,7 +30,7 @@ draft:
 
 | キャラ名 | 回数 | 備考 |
 |---|---|---|
-| <span style="color:#c1502e;font-weight:bold;">イブキ（水着）</span> | 4 | <span style="color:#c1502e;font-weight:bold;">PU</span> |
+| <span style="color:#c1502e;font-weight:bold;">イブキ（水着）</span> | 4 | <span style="color:#c1502e;font-weight:bold;">PU, すり抜けで確保</span> |
 | <span style="color:#c1502e;font-weight:bold;">イロハ（水着）</span> | 4 | <span style="color:#c1502e;font-weight:bold;">PU</span> |
 | <span style="color:#b8860b;font-weight:bold;">アリス（臨戦）</span> | 3 | <span style="color:#b8860b;font-weight:bold;">フェス限</span> |
 | カノエ | 2 |  |
