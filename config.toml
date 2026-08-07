@@ -133,6 +133,10 @@ themesDir = "themes"
     [markup.goldmark.renderer]
       unsafe = true
 
+[privacy]
+  [privacy.x]
+    simple = true
+
 [taxonomies]
   tag = "tags"
   category = "categories"

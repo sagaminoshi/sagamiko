@@ -12,4 +12,4 @@ draft: true
 ---
 備忘録も兼ねて
 <!--more-->
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/Ka92GVtqKS">pic.twitter.com/Ka92GVtqKS</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1343501576518787073?ref_src=twsrc%5Etfw">December 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/Ka92GVtqKS">pic.twitter.com/Ka92GVtqKS</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1343501576518787073?ref_src=twsrc%5Etfw">December 28, 2020</a></blockquote>

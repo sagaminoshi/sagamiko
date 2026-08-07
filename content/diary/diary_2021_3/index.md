@@ -15,9 +15,9 @@ draft:
 {{<figure src="20211104_162340.jpg" class="around" width="640">}}
 {{<figure src="20211104_162355.jpg" class="around" width="640">}}
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">道楽以外の何物でもない価格設定で笑う <a href="https://t.co/majmn7RM0O">pic.twitter.com/majmn7RM0O</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1456161907396644873?ref_src=twsrc%5Etfw">November 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">道楽以外の何物でもない価格設定で笑う <a href="https://t.co/majmn7RM0O">pic.twitter.com/majmn7RM0O</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1456161907396644873?ref_src=twsrc%5Etfw">November 4, 2021</a></blockquote>
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/r0N3nmuXk3">pic.twitter.com/r0N3nmuXk3</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1456180732565483521?ref_src=twsrc%5Etfw">November 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/r0N3nmuXk3">pic.twitter.com/r0N3nmuXk3</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1456180732565483521?ref_src=twsrc%5Etfw">November 4, 2021</a></blockquote>
 
 一番良かったのはチノとココアの部屋の再現で、二人の趣味の違いが如実に現れている。やっぱチノの部屋は年頃の子にしては殺風景だよねえ  
 歴代の扉絵が展示されてたんだけど、ある時点を境にカラーページだけになってて、こうして並べられているのを見ると毎月カラーページを描いてることのすごさが目に見えて分かる。  

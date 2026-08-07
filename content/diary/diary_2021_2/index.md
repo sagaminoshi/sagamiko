@@ -42,7 +42,6 @@ G703のホイールを修理した。埃を取り除いても機能しなかっ�
 肝心のソングラインは検討の段階で消してたので正直自分のやり方ではどうしようもない。  
 あとバスラットレオン君が大きく出遅れたと思ったら空馬になっていることに実況に気付かされて、めちゃくちゃ笑いました。  
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="ja" dir="ltr">NHKマイルC <a href="https://t.co/DikCKSLW1q">pic.twitter.com/DikCKSLW1q</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1391281365132333061?ref_src=twsrc%5Etfw">May 9, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **5/2 天皇賞春**  
 ◎ワールドプレミア ◯ディープボンド ▲ディアスティマ △カレンブーケドール、ユーキャンスマイル  
@@ -50,7 +49,6 @@ G703のホイールを修理した。埃を取り除いても機能しなかっ�
 この時点で4頭にまで絞れていたので、ここは大胆にワールドプレミアに単勝1000円ぶっこんだのが功を奏した。  
 皐月賞直後から予想に2週間かけたので勝てて良かったです。
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="ja" dir="ltr">天皇賞(春) <a href="https://t.co/WuJjbpr4cm">pic.twitter.com/WuJjbpr4cm</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1388748471650246664?ref_src=twsrc%5Etfw">May 2, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **4/26**  
 月曜なのでアニメはひげひろ。このアニメとの付き合い方、間合いの取り方を未だに分かりかねているとうのが正直なところ。  
@@ -71,7 +69,7 @@ Furoreが回避した時点で上位が日本馬で占められることは確�
 **4/18 皐月賞**  
 いつものごとく後出し総括。混戦模様だし荒れそうだったからもともとやるつもりはなかった。ただ15時に起きてオッズ観たら人気2頭のオッズが思いの外高かったので、これならプランが立つと思い参戦。あまり考えずに投票したが、馬連のヒモにタイトルホルダーを入れたら思いの外勝ってしまった。この馬だけはこれまでのレース映像をちゃんと見てたから……あと名前がかっこいいね。  
 それとダノンザキッドに関しては発汗がすごかったらしいので、この情報が入った時点で切るべきたった。呑気にオタクとDMでやり取りしていたからパドックなんぞ見とらんかったよ。それにしても酷い惨敗だった。最優秀2歳牡馬がいくらなんでもこれは……
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/XsYlOFUrhC">pic.twitter.com/XsYlOFUrhC</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1383674854499446793?ref_src=twsrc%5Etfw">April 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/XsYlOFUrhC">pic.twitter.com/XsYlOFUrhC</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1383674854499446793?ref_src=twsrc%5Etfw">April 18, 2021</a></blockquote>
 
 **4/17**  
 13時過ぎに起床。中山グランドジャンプはオッズを見てタガノエスプレッソ軸でやってみたものの払い戻しは無し。先行して3着には食い込んでくれたので納得感はあった。  
@@ -89,7 +87,7 @@ Furoreが回避した時点で上位が日本馬で占められることは確�
 
 **4/4 大阪杯**  
 レ、レイパパレ！？？
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">日曜競馬 プラス3080円です <a href="https://t.co/r9K6Jq1Xmy">pic.twitter.com/r9K6Jq1Xmy</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1378601114161930240?ref_src=twsrc%5Etfw">April 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">日曜競馬 プラス3080円です <a href="https://t.co/r9K6Jq1Xmy">pic.twitter.com/r9K6Jq1Xmy</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1378601114161930240?ref_src=twsrc%5Etfw">April 4, 2021</a></blockquote>
 
 軸はコントレイル、穴にレイパパレを据えるプランで行きました。中1週の金鯱賞組は問答無用で切るなどして、残った馬にオッズを見て傾斜をかける。モズベッロは宝塚3着の実績が引っかかって残した。アドマイヤビルゴはネタの域を出ないが、まあそれもいいだろう。6億円返済頑張れ  
 

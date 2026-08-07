@@ -1,3 +1,3 @@
 <footer class="article-footer">
-    <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ .Permalink }}" data-text="{{ .Title }} | {{ .Site.Title }}">Tweet</a>
+    <a href="https://twitter.com/intent/tweet?{{ (querify "url" .Permalink "text" (printf "%s | %s" .Title .Site.Title)) | safeURL }}" class="article-share-link" target="_blank" rel="noopener" title="share on Twitter">Share on {{ partial "icon.html" "twitter" }}</a>
 </footer>
