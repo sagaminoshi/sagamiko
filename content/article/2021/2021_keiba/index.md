@@ -54,7 +54,6 @@ draft:
 肝心のソングラインは検討の段階で消してたので正直自分のやり方ではどうしようもない。  
 あとバスラットレオン君が大きく出遅れたと思ったら空馬になっていることに実況に気付かされて、めちゃくちゃ笑いました。  
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="ja" dir="ltr">NHKマイルC <a href="https://t.co/DikCKSLW1q">pic.twitter.com/DikCKSLW1q</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1391281365132333061?ref_src=twsrc%5Etfw">May 9, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **5/2 天皇賞春**  
 ◎ワールドプレミア ◯ディープボンド ▲ディアスティマ △カレンブーケドール、ユーキャンスマイル  
@@ -62,7 +61,6 @@ draft:
 この時点で4頭にまで絞れていたので、ここは大胆にワールドプレミアに単勝1000円ぶっこんだのが功を奏した。  
 皐月賞直後から予想に2週間かけたので勝てて良かったです。
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="ja" dir="ltr">天皇賞(春) <a href="https://t.co/WuJjbpr4cm">pic.twitter.com/WuJjbpr4cm</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1388748471650246664?ref_src=twsrc%5Etfw">May 2, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **4/25 土日開催の総括**  
 阪神牝馬ステークス  
@@ -79,11 +77,11 @@ Furoreが回避した時点で上位が日本馬で占められることは確�
 **4/18 皐月賞**  
 いつものごとく後出し総括。混戦模様だし荒れそうだったからもともとやるつもりはなかった。ただ15時に起きてオッズ観たら人気2頭のオッズが思いの外高かったので、これならプランが立つと思い参戦。あまり考えずに投票したが、馬連のヒモにタイトルホルダーを入れたら思いの外勝ってしまった。この馬だけはこれまでのレース映像をちゃんと見てたから……あと名前がかっこいいね。  
 それとダノンザキッドに関しては発汗がすごかったらしいので、この情報が入った時点で切るべきたった。呑気にオタクとDMでやり取りしていたからパドックなんぞ見とらんかったよ。それにしても酷い惨敗だった。最優秀2歳牡馬がいくらなんでもこれは……
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/XsYlOFUrhC">pic.twitter.com/XsYlOFUrhC</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1383674854499446793?ref_src=twsrc%5Etfw">April 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/XsYlOFUrhC">pic.twitter.com/XsYlOFUrhC</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1383674854499446793?ref_src=twsrc%5Etfw">April 18, 2021</a></blockquote>
 
 **4/4 大阪杯**  
 レ、レイパパレ！？？
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">日曜競馬 プラス3080円です <a href="https://t.co/r9K6Jq1Xmy">pic.twitter.com/r9K6Jq1Xmy</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1378601114161930240?ref_src=twsrc%5Etfw">April 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">日曜競馬 プラス3080円です <a href="https://t.co/r9K6Jq1Xmy">pic.twitter.com/r9K6Jq1Xmy</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1378601114161930240?ref_src=twsrc%5Etfw">April 4, 2021</a></blockquote>
 
 軸はコントレイル、穴にレイパパレを据えるプランで行きました。中1週の金鯱賞組は問答無用で切るなどして、残った馬にオッズを見て傾斜をかける。モズベッロは宝塚3着の実績が引っかかって残した。アドマイヤビルゴはネタの域を出ないが、まあそれもいいだろう。6億円返済頑張れ  
 
@@ -95,7 +93,7 @@ A. レイパパレがそれなりのペースで飛ばす想定で、加えて�
 来週は桜花賞ですね。牝馬G1にはいい思い出がないので適当にやり過ごします
 
 **3/28 高松宮記念**  
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">実入り自体は大したこと無いけど、終盤どう展開してもいい会心の競馬だった <a href="https://t.co/M6WQdjPwFe">pic.twitter.com/M6WQdjPwFe</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1376064065689190403?ref_src=twsrc%5Etfw">March 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">実入り自体は大したこと無いけど、終盤どう展開してもいい会心の競馬だった <a href="https://t.co/M6WQdjPwFe">pic.twitter.com/M6WQdjPwFe</a></p>&mdash; さがみの (@sagami_no) <a href="https://twitter.com/sagami_no/status/1376064065689190403?ref_src=twsrc%5Etfw">March 28, 2021</a></blockquote>
 
 高松宮記念。4頭ボックスで買って4頭とも掲示板入りの会心の競馬だった。レース展開も想定そのもの。短距離馬は詳しくないが、分からないなりに真面目に検討した甲斐があった。  
 予想の詳細だが、インディチャンプはマイラーだが重馬場なので勝機有り。加えて人気上位のレステンシアとダノンスマッシュ、恐らくこの3頭で決まる。当初はこの馬連3頭ボックスを考えていた。モズスーパーフレアは大方沈むだろうが、前に残って上3頭と絡んでくれると馬券的に美味しいのでボックスに加える。あと欲を出して、インディチャンプとモズの単勝も買ってみる。だいたいこんなことを考えていました。欲張った分実入りはそこまででもないが、これで良かったと思ってる。  

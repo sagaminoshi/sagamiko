@@ -519,10 +519,9 @@ code {
   background: none;
   position: absolute;
   font: 13px font-icon;
-  font-family: 'FontAwesome';
 }
 #search-form-wrap .search-form .search-form-submit:before {
-  content: '\f002';
+  content: '\1F50D';
 }
 #search-form-wrap .search-form .search-form-submit:hover,
 #search-form-wrap .search-form .search-form-submit:focus {
@@ -940,10 +939,9 @@ a.article-title:hover {
 .article-entry blockquote:before {
   top: 10px;
   left: 10px;
-  content: "\f10d";
+  content: "\201C";
   color: #e2e2e2;
   font-size: 16px;
-  font-family: FontAwesome;
   text-align: center;
   position: absolute;
 }
@@ -1036,8 +1034,7 @@ a.article-title:hover {
   float: right;
 }
 .article-comment-link:before {
-  content: "\f075";
-  font-family: FontAwesome;
+  content: "\21A9";
   padding-right: 5px;
 }
 .share-container {
@@ -1475,10 +1472,9 @@ ol.toc {
 }
 .layout-wrap-inner.list-categories li a:before {
   color: #ccc;
-  content: "\f0da";
+  content: "\203A";
   font-size: 12px;
   margin-right: 6px;
-  font-family: FontAwesome;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
@@ -1779,10 +1775,9 @@ ol.toc {
 .widget ul:not(#recent-post) li a:before,
 .widget ol:not(#recent-post) li a:before {
   color: #ccc;
-  content: "\f0da";
+  content: "\203A";
   font-size: 12px;
   margin-right: 6px;
-  font-family: FontAwesome;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
