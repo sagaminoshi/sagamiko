@@ -1,0 +1,42 @@
+{{ $src := .Get "src" }}
+{{ $class := .Get "class" }}
+{{ $width := .Get "width" }}
+{{ $height := .Get "height" }}
+{{ $alt := .Get "alt" }}
+{{ $caption := .Get "caption" }}
+{{ $link := .Get "link" }}
+{{ $target := .Get "target" }}
+{{ $rel := .Get "rel" }}
+{{ $attr := .Get "attr" }}
+{{ $attrlink := .Get "attrlink" }}
+{{ $loading := .Get "loading" | default "lazy" }}
+
+{{ $img := "" }}
+{{ with $.Page.Resources.GetMatch $src }}{{ $img = . }}{{ end }}
+
+<figure{{ with $class }} class="{{ . }}"{{ end }}>
+  {{ with $link }}<a href="{{ . }}"{{ with $target }} target="{{ . }}"{{ end }}{{ with $rel }} rel="{{ . }}"{{ end }}>{{ end }}
+  {{ if $img }}
+    {{ $w := 1000 }}
+    {{ with $width }}{{ $w = mul (int .) 2 }}{{ end }}
+    {{ if lt $img.Width $w }}{{ $w = $img.Width }}{{ end }}
+    {{ $webp := $img.Process (printf "resize %dx webp q75" $w) }}
+    <picture>
+      <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+      <img src="{{ $img.RelPermalink }}"{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }} alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption }}{{ end }}" loading="{{ $loading }}">
+    </picture>
+  {{ else }}
+    <img src="{{ $src }}"{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }} alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption }}{{ end }}" loading="{{ $loading }}">
+  {{ end }}
+  {{ if $link }}</a>{{ end }}
+  {{ if or $caption $attr }}
+  <figcaption>
+    {{ if or $caption $attr }}<p>
+    {{ $caption }}
+    {{ with $attrlink }}<a href="{{ . }}"> {{ end }}
+        {{ $attr }}
+    {{ if $attrlink }}</a> {{ end }}
+    </p>{{ end }}
+  </figcaption>
+  {{ end }}
+</figure>

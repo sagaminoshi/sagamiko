@@ -137,6 +137,9 @@ themesDir = "themes"
   [privacy.x]
     simple = true
 
+[imaging]
+  resampleFilter = "lanczos"
+
 [taxonomies]
   tag = "tags"
   category = "categories"

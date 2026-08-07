@@ -5,7 +5,9 @@
             {{ if isset .Params "banner" }}
             {{ $thumbnailSrc := "" }}
             {{ with .Resources.GetMatch .Params.banner }}
-                {{ $thumbnailSrc = .RelPermalink }}
+                {{ with .Process "fill 320x180 Smart webp q75" }}
+                    {{ $thumbnailSrc = .RelPermalink }}
+                {{ end }}
             {{ else }}
                 {{ $thumbnailSrc = .Params.banner | strings.TrimPrefix "/" | absURL }}
             {{ end }}
@@ -35,7 +37,9 @@
         {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
         <a href="{{ .Permalink }}" itemprop="url" aria-hidden="true" tabindex="-1">
             {{ with .Resources.GetMatch .Params.banner }}
-                {{ $webp := .Process "webp q80" }}
+                {{ $w := 1200 }}
+                {{ if lt .Width $w }}{{ $w = .Width }}{{ end }}
+                {{ $webp := .Process (printf "resize %dx webp q80" $w) }}
                 <picture>
                     <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
                     <img src="{{ .RelPermalink }}" class="article-banner" loading="lazy" alt="">

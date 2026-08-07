@@ -2,7 +2,9 @@
     <div class="article-inner">
         {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
             {{ with .Resources.GetMatch .Params.banner }}
-                {{ $webp := .Process "webp q80" }}
+                {{ $w := 1200 }}
+                {{ if lt .Width $w }}{{ $w = .Width }}{{ end }}
+                {{ $webp := .Process (printf "resize %dx webp q80" $w) }}
                 <picture>
                     <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
                     <img src="{{ .RelPermalink }}" class="article-banner" loading="lazy" alt="{{ $.Title }}">

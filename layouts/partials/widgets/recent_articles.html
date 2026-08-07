@@ -12,7 +12,9 @@
                     {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
                         {{ $recentBanner := "" }}
                         {{ with .Resources.GetMatch .Params.banner }}
-                            {{ $recentBanner = .RelPermalink }}
+                            {{ with .Process "fill 160x160 Smart webp q75" }}
+                                {{ $recentBanner = .RelPermalink }}
+                            {{ end }}
                         {{ else }}
                             {{ $recentBanner = .Params.banner | strings.TrimPrefix "/" | absURL }}
                         {{ end }}
