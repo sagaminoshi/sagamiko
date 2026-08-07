@@ -21,9 +21,18 @@
     {{ with $width }}{{ $w = mul (int .) 2 }}{{ end }}
     {{ if lt $img.Width $w }}{{ $w = $img.Width }}{{ end }}
     {{ $webp := $img.Process (printf "resize %dx webp q75" $w) }}
+    {{ $fallback := $img.Process (printf "resize %dx q75" $w) }}
+    {{ $htmlWidth := $w }}
+    {{ with $width }}{{ $htmlWidth = . }}{{ end }}
+    {{ $htmlHeight := $height }}
+    {{ if not $htmlHeight }}
+      {{ $dw := $w }}
+      {{ with $width }}{{ $dw = int . }}{{ end }}
+      {{ $htmlHeight = div (mul $img.Height $dw) $img.Width }}
+    {{ end }}
     <picture>
       <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
-      <img src="{{ $img.RelPermalink }}"{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }} alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption }}{{ end }}" loading="{{ $loading }}">
+      <img src="{{ $fallback.RelPermalink }}" width="{{ $htmlWidth }}" height="{{ $htmlHeight }}" alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption }}{{ end }}" loading="{{ $loading }}">
     </picture>
   {{ else }}
     <img src="{{ $src }}"{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }} alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption }}{{ end }}" loading="{{ $loading }}">

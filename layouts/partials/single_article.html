@@ -2,16 +2,16 @@
     <div class="article-inner">
         {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
             {{ with .Resources.GetMatch .Params.banner }}
-                {{ $w := 1200 }}
+                {{ $w := 900 }}
                 {{ if lt .Width $w }}{{ $w = .Width }}{{ end }}
                 {{ $webp := .Process (printf "resize %dx webp q80" $w) }}
                 <picture>
                     <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
-                    <img src="{{ .RelPermalink }}" class="article-banner" loading="lazy" alt="{{ $.Title }}">
+                    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" class="article-banner" fetchpriority="high" alt="{{ $.Title }}">
                 </picture>
             {{ else }}
                 {{ $banner := $.Params.banner | strings.TrimPrefix "/" }}
-                <img src="{{ $banner | absURL }}" class="article-banner" loading="lazy" alt="{{ $.Title }}">
+                <img src="{{ $banner | absURL }}" class="article-banner" fetchpriority="high" alt="{{ $.Title }}">
             {{ end }}
         {{ end }}
 
