@@ -18,16 +18,22 @@
     <link rel="canonical" href="{{ .Permalink }}"/>
     <link rel="icon" href="{{ "favicon.ico" | absURL }}">
     <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | absURL }}"/>
-    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
-    <link rel="stylesheet" href="{{ "css/monokai.css" | absURL }}">
-    <link rel="stylesheet" href="{{ "css/custom.css" | absURL }}">
-    <link rel="stylesheet" href="{{ "fancybox/jquery.fancybox.css" | absURL }}">
+    <!-- critical CSS inlined to eliminate render-blocking requests -->
+    <style>{{ os.ReadFile "static/css/style.css" | safeCSS }}</style>
+    <style>{{ os.ReadFile "themes/icarus/static/css/monokai.css" | safeCSS }}</style>
+    <style>{{ os.ReadFile "static/css/custom.css" | safeCSS }}</style>
+
+    <!-- fancybox CSS is only needed if/when the lightbox opens -->
+    <link rel="preload" href="{{ "fancybox/jquery.fancybox.css" | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="{{ "fancybox/jquery.fancybox.css" | absURL }}"></noscript>
+
     {{ range .Site.Params.custom_css }}
     <link rel="stylesheet" href="{{ . | absURL }}">
     {{ end }}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href='https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400&family=Source+Code+Pro:wght@400&display=swap' rel='stylesheet'>
+    <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400&family=Source+Code+Pro:wght@400&display=swap">
+    <noscript><link href='https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400&family=Source+Code+Pro:wght@400&display=swap' rel='stylesheet'></noscript>
     {{ template "_internal/opengraph.html" . }}
     {{ template "_internal/schema.html" . }}
     {{ template "_internal/twitter_cards.html" . }}
@@ -41,10 +47,6 @@
     </style>
     {{ end }}
 
-    <!-- needs to be loaded first for following scripts -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-
-    
 
 </head>
 <body>

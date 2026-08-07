@@ -1,4 +1,6 @@
 {{ template "_internal/google_analytics.html" . }}
+<!-- jquery must load before fancybox.pack.js and script.js, which both depend on it -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="{{ "fancybox/jquery.fancybox.pack.js" | absURL }}"></script>
 <script src="{{ "js/script.js" | absURL }}"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
