@@ -1,22 +1,16 @@
 <article id="page-undefined" class="article article-type-page" itemscope="" itemprop="blogPost">
     <div class="article-inner">
         {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
-            {{ $bannerSrc := "" }}
-            {{ $bannerWebPSrc := "" }}
             {{ with .Resources.GetMatch .Params.banner }}
-                {{ $bannerSrc = .RelPermalink }}
+                {{ $webp := .Process "webp q80" }}
+                <picture>
+                    <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+                    <img src="{{ .RelPermalink }}" class="article-banner" loading="lazy" alt="{{ $.Title }}">
+                </picture>
             {{ else }}
-                {{ $banner := .Params.banner | strings.TrimPrefix "/" }}
-                {{ $bannerWebP := replaceRE `\.(jpg|jpeg|png)$` ".webp" $banner }}
-                {{ $bannerSrc = $banner | absURL }}
-                {{ $bannerWebPSrc = $bannerWebP | absURL }}
+                {{ $banner := $.Params.banner | strings.TrimPrefix "/" }}
+                <img src="{{ $banner | absURL }}" class="article-banner" loading="lazy" alt="{{ $.Title }}">
             {{ end }}
-            <picture>
-                {{ if ne $bannerWebPSrc "" }}
-                <source srcset="{{ $bannerWebPSrc }}" type="image/webp">
-                {{ end }}
-                <img src="{{ $bannerSrc }}" class="article-banner" loading="lazy" alt="{{ .Title }}">
-            </picture>
         {{ end }}
 
         {{ partial "article_header" . }}
