@@ -10,8 +10,13 @@
                 <div class="item-thumbnail">
                     <a href="{{ .Permalink }}" class="thumbnail">
                     {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
-                        {{ $banner := .Params.banner | strings.TrimPrefix "/" }}
-                        <span style="background-image:url({{ $banner | absURL }})" alt="{{ $.Title }}" class="thumbnail-image"></span>
+                        {{ $recentBanner := "" }}
+                        {{ with .Resources.GetMatch .Params.banner }}
+                            {{ $recentBanner = .RelPermalink }}
+                        {{ else }}
+                            {{ $recentBanner = .Params.banner | strings.TrimPrefix "/" | absURL }}
+                        {{ end }}
+                        <span style="background-image:url({{ $recentBanner }})" alt="{{ $.Title }}" class="thumbnail-image"></span>
                     {{else}}
                         <span class="thumbnail-image thumbnail-none"></span>
                     {{ end }}
