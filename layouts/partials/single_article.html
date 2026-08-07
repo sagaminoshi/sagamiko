@@ -7,11 +7,11 @@
                 {{ $webp := .Process (printf "resize %dx webp q80" $w) }}
                 <picture>
                     <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
-                    <img src="{{ .RelPermalink }}" class="article-banner" loading="lazy" alt="{{ $.Title }}">
+                    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" class="article-banner" fetchpriority="high" alt="{{ $.Title }}">
                 </picture>
             {{ else }}
                 {{ $banner := $.Params.banner | strings.TrimPrefix "/" }}
-                <img src="{{ $banner | absURL }}" class="article-banner" loading="lazy" alt="{{ $.Title }}">
+                <img src="{{ $banner | absURL }}" class="article-banner" fetchpriority="high" alt="{{ $.Title }}">
             {{ end }}
         {{ end }}
 

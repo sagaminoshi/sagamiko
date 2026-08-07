@@ -35,6 +35,8 @@
 <article class="archive-article archive-type-post">
     <div class="article-inner">
         {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
+        {{ $mainPages := (where .Site.RegularPages "Type" "in" .Site.Params.mainSections).ByPublishDate.Reverse }}
+        {{ $isPriority := eq .RelPermalink (index $mainPages 0).RelPermalink }}
         <a href="{{ .Permalink }}" itemprop="url" aria-hidden="true" tabindex="-1">
             {{ with .Resources.GetMatch .Params.banner }}
                 {{ $w := 1200 }}
@@ -42,11 +44,11 @@
                 {{ $webp := .Process (printf "resize %dx webp q80" $w) }}
                 <picture>
                     <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
-                    <img src="{{ .RelPermalink }}" class="article-banner" loading="lazy" alt="">
+                    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" class="article-banner" {{ if $isPriority }}fetchpriority="high"{{ else }}loading="lazy"{{ end }} alt="">
                 </picture>
             {{ else }}
                 {{ $banner := $.Params.banner | strings.TrimPrefix "/" }}
-                <img src="{{ $banner | absURL }}" class="article-banner" loading="lazy" alt="">
+                <img src="{{ $banner | absURL }}" class="article-banner" {{ if $isPriority }}fetchpriority="high"{{ else }}loading="lazy"{{ end }} alt="">
             {{ end }}
         </a>
         {{ end }}
